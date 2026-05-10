@@ -461,5 +461,3 @@ Checklist trước khi commit deck mới:
 - Test và Learn dùng `Math.random()`, nên câu hỏi thay đổi mỗi lần tạo lại.
 - App chưa đọc dữ liệu reading test trong `src/assets/mini-test-reading/`.
 - Thư mục `dist/` là artifact build, không nên sửa trực tiếp.
-
-<!-- TEST CICD -->
