@@ -1,0 +1,258 @@
+{
+  "category": "society",
+  "band_range": "7.0-9.0",
+  "description": "Vocabulary for IELTS topics on social change, inequality, community, demographics, culture, and public policy",
+  "total_entries": 25,
+  "entries": [
+    {
+      "word": "ageing population",
+      "type": "noun",
+      "ipa": "/ˈeɪdʒɪŋ ˌpɒpjuˈleɪʃn/",
+      "def_en": "a population with a growing proportion of elderly people",
+      "def_vi": "dân số già hóa",
+      "example": "An ageing population creates challenges for pensions and healthcare.",
+      "synonyms": ["older population", "greying population"],
+      "band": 7.0
+    },
+    {
+      "word": "civic responsibility",
+      "type": "noun",
+      "ipa": "/ˈsɪvɪk rɪˌspɒnsəˈbɪləti/",
+      "def_en": "the duty of citizens to contribute to society",
+      "def_vi": "trách nhiệm công dân",
+      "example": "Voting and volunteering are important forms of civic responsibility.",
+      "synonyms": ["civic duty", "social responsibility"],
+      "band": 7.5
+    },
+    {
+      "word": "cultural assimilation",
+      "type": "noun",
+      "ipa": "/ˈkʌltʃərəl əˌsɪmɪˈleɪʃn/",
+      "def_en": "the process of becoming part of a dominant culture",
+      "def_vi": "sự đồng hóa văn hóa",
+      "example": "Some immigrants face pressure toward cultural assimilation.",
+      "synonyms": ["cultural integration", "acculturation"],
+      "band": 8.0
+    },
+    {
+      "word": "cultural diversity",
+      "type": "noun",
+      "ipa": "/ˈkʌltʃərəl daɪˈvɜːsəti/",
+      "def_en": "the presence of different cultural groups in society",
+      "def_vi": "đa dạng văn hóa",
+      "example": "Cultural diversity can enrich schools and workplaces.",
+      "synonyms": ["multiculturalism", "cultural variety"],
+      "band": 7.0
+    },
+    {
+      "word": "demographic shift",
+      "type": "noun",
+      "ipa": "/ˌdeməˈɡræfɪk ʃɪft/",
+      "def_en": "a major change in the structure of a population",
+      "def_vi": "sự chuyển dịch nhân khẩu học",
+      "example": "Migration has caused a demographic shift in many urban areas.",
+      "synonyms": ["population change", "demographic change"],
+      "band": 8.0
+    },
+    {
+      "word": "disadvantaged communities",
+      "type": "noun",
+      "ipa": "/ˌdɪsədˈvɑːntɪdʒd kəˈmjuːnətiz/",
+      "def_en": "groups that have fewer social or economic opportunities",
+      "def_vi": "cộng đồng thiệt thòi",
+      "example": "Education programs should support disadvantaged communities.",
+      "synonyms": ["underprivileged groups", "marginalized communities"],
+      "band": 7.5
+    },
+    {
+      "word": "gender equality",
+      "type": "noun",
+      "ipa": "/ˈdʒendə iˈkwɒləti/",
+      "def_en": "equal rights and opportunities for all genders",
+      "def_vi": "bình đẳng giới",
+      "example": "Gender equality benefits both families and the wider economy.",
+      "synonyms": ["gender parity", "equal gender rights"],
+      "band": 7.0
+    },
+    {
+      "word": "generation gap",
+      "type": "noun",
+      "ipa": "/ˌdʒenəˈreɪʃn ɡæp/",
+      "def_en": "differences in opinions and values between age groups",
+      "def_vi": "khoảng cách thế hệ",
+      "example": "Technology can widen the generation gap between parents and children.",
+      "synonyms": ["intergenerational divide"],
+      "band": 7.0
+    },
+    {
+      "word": "income inequality",
+      "type": "noun",
+      "ipa": "/ˈɪnkʌm ˌɪnɪˈkwɒləti/",
+      "def_en": "an unequal distribution of income among people",
+      "def_vi": "bất bình đẳng thu nhập",
+      "example": "Income inequality can weaken social cohesion.",
+      "synonyms": ["wealth gap", "economic inequality"],
+      "band": 7.0
+    },
+    {
+      "word": "individualism",
+      "type": "noun",
+      "ipa": "/ˌɪndɪˈvɪdʒuəlɪzəm/",
+      "def_en": "the belief that individual freedom and choice are very important",
+      "def_vi": "chủ nghĩa cá nhân",
+      "example": "Individualism is often contrasted with collectivist values.",
+      "synonyms": ["self-reliance", "personal autonomy"],
+      "band": 7.5
+    },
+    {
+      "word": "integration",
+      "type": "noun",
+      "ipa": "/ˌɪntɪˈɡreɪʃn/",
+      "def_en": "the process of becoming part of a society or group",
+      "def_vi": "sự hòa nhập",
+      "example": "Language classes can support the integration of migrants.",
+      "synonyms": ["inclusion", "assimilation"],
+      "band": 7.0
+    },
+    {
+      "word": "marginalized group",
+      "type": "noun",
+      "ipa": "/ˈmɑːdʒɪnəlaɪzd ɡruːp/",
+      "def_en": "a group treated as less important or pushed to the edge of society",
+      "def_vi": "nhóm bị gạt ra bên lề xã hội",
+      "example": "Policy makers should listen to marginalized groups.",
+      "synonyms": ["excluded group", "disadvantaged group"],
+      "band": 8.0
+    },
+    {
+      "word": "multicultural society",
+      "type": "noun",
+      "ipa": "/ˌmʌltiˈkʌltʃərəl səˈsaɪəti/",
+      "def_en": "a society containing people from many cultural backgrounds",
+      "def_vi": "xã hội đa văn hóa",
+      "example": "A multicultural society requires tolerance and mutual respect.",
+      "synonyms": ["diverse society", "pluralistic society"],
+      "band": 7.0
+    },
+    {
+      "word": "public policy",
+      "type": "noun",
+      "ipa": "/ˌpʌblɪk ˈpɒləsi/",
+      "def_en": "government action or rules intended to address public issues",
+      "def_vi": "chính sách công",
+      "example": "Public policy should be based on evidence rather than ideology.",
+      "synonyms": ["government policy", "state policy"],
+      "band": 7.5
+    },
+    {
+      "word": "quality of life",
+      "type": "noun",
+      "ipa": "/ˈkwɒləti əv laɪf/",
+      "def_en": "the general wellbeing and comfort of individuals or communities",
+      "def_vi": "chất lượng cuộc sống",
+      "example": "Green spaces can improve quality of life in crowded cities.",
+      "synonyms": ["living standards", "wellbeing"],
+      "band": 7.0
+    },
+    {
+      "word": "rural depopulation",
+      "type": "noun",
+      "ipa": "/ˈrʊərəl diːˌpɒpjuˈleɪʃn/",
+      "def_en": "the decline in the number of people living in rural areas",
+      "def_vi": "sự suy giảm dân số nông thôn",
+      "example": "Rural depopulation can lead to school closures and labor shortages.",
+      "synonyms": ["rural decline", "village depopulation"],
+      "band": 8.0
+    },
+    {
+      "word": "social cohesion",
+      "type": "noun",
+      "ipa": "/ˈsəʊʃl kəʊˈhiːʒn/",
+      "def_en": "the strength of relationships and unity within a society",
+      "def_vi": "sự gắn kết xã hội",
+      "example": "Extreme inequality can damage social cohesion.",
+      "synonyms": ["social unity", "community solidarity"],
+      "band": 8.0
+    },
+    {
+      "word": "social mobility",
+      "type": "noun",
+      "ipa": "/ˌsəʊʃl məʊˈbɪləti/",
+      "def_en": "the ability to move to a higher social or economic position",
+      "def_vi": "sự dịch chuyển xã hội",
+      "example": "Education is often seen as a key driver of social mobility.",
+      "synonyms": ["upward mobility", "class mobility"],
+      "band": 7.5
+    },
+    {
+      "word": "social stigma",
+      "type": "noun",
+      "ipa": "/ˌsəʊʃl ˈstɪɡmə/",
+      "def_en": "negative attitudes toward a person or group",
+      "def_vi": "sự kỳ thị xã hội",
+      "example": "Social stigma can prevent people from seeking mental health support.",
+      "synonyms": ["social shame", "public prejudice"],
+      "band": 8.0
+    },
+    {
+      "word": "socioeconomic status",
+      "type": "noun",
+      "ipa": "/ˌsəʊsiəʊˌekəˈnɒmɪk ˈsteɪtəs/",
+      "def_en": "a person's social and economic position",
+      "def_vi": "địa vị kinh tế xã hội",
+      "example": "Socioeconomic status can influence educational outcomes.",
+      "synonyms": ["social class", "economic position"],
+      "band": 8.0
+    },
+    {
+      "word": "urbanization",
+      "type": "noun",
+      "ipa": "/ˌɜːbənaɪˈzeɪʃn/",
+      "def_en": "the growth of cities as more people move to urban areas",
+      "def_vi": "đô thị hóa",
+      "example": "Urbanization can create economic opportunities but also congestion.",
+      "synonyms": ["city growth", "urban expansion"],
+      "band": 7.0
+    },
+    {
+      "word": "voluntary sector",
+      "type": "noun",
+      "ipa": "/ˈvɒləntri ˈsektə/",
+      "def_en": "organizations that are not run for profit and often rely on volunteers",
+      "def_vi": "khu vực tổ chức tình nguyện, phi lợi nhuận",
+      "example": "The voluntary sector plays an important role in supporting the elderly.",
+      "synonyms": ["non-profit sector", "charitable sector"],
+      "band": 8.0
+    },
+    {
+      "word": "welfare system",
+      "type": "noun",
+      "ipa": "/ˈwelfeə ˈsɪstəm/",
+      "def_en": "government support for people in financial or social need",
+      "def_vi": "hệ thống phúc lợi",
+      "example": "A strong welfare system can reduce poverty during recessions.",
+      "synonyms": ["social security system", "public assistance"],
+      "band": 7.0
+    },
+    {
+      "word": "youth unemployment",
+      "type": "noun",
+      "ipa": "/juːθ ˌʌnɪmˈplɔɪmənt/",
+      "def_en": "unemployment among young people",
+      "def_vi": "thất nghiệp ở thanh niên",
+      "example": "Youth unemployment can cause long-term economic and social problems.",
+      "synonyms": ["young people's joblessness"],
+      "band": 7.0
+    },
+    {
+      "word": "zero tolerance policy",
+      "type": "noun",
+      "ipa": "/ˌzɪərəʊ ˈtɒlərəns ˈpɒləsi/",
+      "def_en": "a policy that punishes all violations strictly",
+      "def_vi": "chính sách không khoan nhượng",
+      "example": "Some schools adopt a zero tolerance policy toward bullying.",
+      "synonyms": ["strict policy", "no-exception policy"],
+      "band": 8.0
+    }
+  ]
+}

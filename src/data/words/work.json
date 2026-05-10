@@ -1,0 +1,258 @@
+{
+  "category": "work",
+  "band_range": "7.0-9.0",
+  "description": "Vocabulary for IELTS topics on employment, career development, workplace culture, productivity, and labor markets",
+  "total_entries": 25,
+  "entries": [
+    {
+      "word": "blue-collar worker",
+      "type": "noun",
+      "ipa": "/ˌbluː ˈkɒlə ˈwɜːkə/",
+      "def_en": "a worker who does manual or industrial work",
+      "def_vi": "công nhân lao động chân tay",
+      "example": "Blue-collar workers are essential to manufacturing and construction.",
+      "synonyms": ["manual worker", "industrial worker"],
+      "band": 7.0
+    },
+    {
+      "word": "career progression",
+      "type": "noun",
+      "ipa": "/kəˈrɪə prəˈɡreʃn/",
+      "def_en": "the process of advancing in one's career",
+      "def_vi": "sự thăng tiến nghề nghiệp",
+      "example": "Young professionals often value career progression more than job security.",
+      "synonyms": ["career advancement", "professional growth"],
+      "band": 7.0
+    },
+    {
+      "word": "competitive salary",
+      "type": "noun",
+      "ipa": "/kəmˈpetətɪv ˈsæləri/",
+      "def_en": "pay that is attractive compared with similar jobs",
+      "def_vi": "mức lương cạnh tranh",
+      "example": "A competitive salary helps companies retain talented employees.",
+      "synonyms": ["attractive pay", "market-level salary"],
+      "band": 7.0
+    },
+    {
+      "word": "corporate culture",
+      "type": "noun",
+      "ipa": "/ˈkɔːpərət ˈkʌltʃə/",
+      "def_en": "the values, beliefs, and practices of a company",
+      "def_vi": "văn hóa doanh nghiệp",
+      "example": "Corporate culture can strongly influence employee motivation.",
+      "synonyms": ["company culture", "organizational culture"],
+      "band": 7.0
+    },
+    {
+      "word": "employee retention",
+      "type": "noun",
+      "ipa": "/ɪmˈplɔɪiː rɪˈtenʃn/",
+      "def_en": "the ability of an organization to keep its employees",
+      "def_vi": "giữ chân nhân viên",
+      "example": "Flexible working arrangements can improve employee retention.",
+      "synonyms": ["staff retention", "workforce retention"],
+      "band": 7.5
+    },
+    {
+      "word": "entrepreneurship",
+      "type": "noun",
+      "ipa": "/ˌɒntrəprəˈnɜːʃɪp/",
+      "def_en": "the activity of starting and running businesses",
+      "def_vi": "tinh thần khởi nghiệp",
+      "example": "Entrepreneurship can create jobs and stimulate economic growth.",
+      "synonyms": ["business creation", "enterprise"],
+      "band": 7.5
+    },
+    {
+      "word": "flexible working hours",
+      "type": "noun",
+      "ipa": "/ˌfleksəbl ˈwɜːkɪŋ ˈaʊəz/",
+      "def_en": "a system allowing employees to choose their working time",
+      "def_vi": "giờ làm việc linh hoạt",
+      "example": "Flexible working hours can help parents balance work and family duties.",
+      "synonyms": ["flexitime", "adjustable work hours"],
+      "band": 7.0
+    },
+    {
+      "word": "freelancer",
+      "type": "noun",
+      "ipa": "/ˈfriːlɑːnsə/",
+      "def_en": "a person who works independently for different clients",
+      "def_vi": "người làm việc tự do",
+      "example": "Many freelancers enjoy autonomy but lack stable income.",
+      "synonyms": ["independent contractor", "self-employed worker"],
+      "band": 7.0
+    },
+    {
+      "word": "job satisfaction",
+      "type": "noun",
+      "ipa": "/ˈdʒɒb ˌsætɪsˈfækʃn/",
+      "def_en": "the feeling of contentment with one's job",
+      "def_vi": "sự hài lòng trong công việc",
+      "example": "Recognition from managers can increase job satisfaction.",
+      "synonyms": ["work satisfaction", "professional fulfillment"],
+      "band": 7.0
+    },
+    {
+      "word": "labor shortage",
+      "type": "noun",
+      "ipa": "/ˈleɪbə ˈʃɔːtɪdʒ/",
+      "def_en": "a situation where there are not enough workers available",
+      "def_vi": "thiếu hụt lao động",
+      "example": "A labor shortage has pushed some companies to raise wages.",
+      "synonyms": ["worker shortage", "staff shortage"],
+      "band": 7.5
+    },
+    {
+      "word": "managerial position",
+      "type": "noun",
+      "ipa": "/ˌmænəˈdʒɪəriəl pəˈzɪʃn/",
+      "def_en": "a job involving responsibility for managing people or operations",
+      "def_vi": "vị trí quản lý",
+      "example": "Experience is usually required for a managerial position.",
+      "synonyms": ["management role", "leadership position"],
+      "band": 7.0
+    },
+    {
+      "word": "occupational burnout",
+      "type": "noun",
+      "ipa": "/ˌɒkjʊˈpeɪʃənl ˈbɜːnaʊt/",
+      "def_en": "extreme exhaustion caused by prolonged work stress",
+      "def_vi": "kiệt sức nghề nghiệp",
+      "example": "Occupational burnout is common in high-pressure professions.",
+      "synonyms": ["workplace burnout", "job-related exhaustion"],
+      "band": 8.0
+    },
+    {
+      "word": "professional development",
+      "type": "noun",
+      "ipa": "/prəˈfeʃənl dɪˈveləpmənt/",
+      "def_en": "training and learning that improve career-related skills",
+      "def_vi": "phát triển chuyên môn",
+      "example": "Employers should invest in professional development for their staff.",
+      "synonyms": ["career training", "skills development"],
+      "band": 7.0
+    },
+    {
+      "word": "redundancy",
+      "type": "noun",
+      "ipa": "/rɪˈdʌndənsi/",
+      "def_en": "job loss because a position is no longer needed",
+      "def_vi": "sự mất việc do vị trí không còn cần thiết",
+      "example": "Automation may lead to redundancy in repetitive roles.",
+      "synonyms": ["layoff", "job loss"],
+      "band": 7.5
+    },
+    {
+      "word": "remote working",
+      "type": "noun",
+      "ipa": "/rɪˈməʊt ˈwɜːkɪŋ/",
+      "def_en": "working from a location away from the office",
+      "def_vi": "làm việc từ xa",
+      "example": "Remote working can reduce commuting time and office costs.",
+      "synonyms": ["teleworking", "working from home"],
+      "band": 7.0
+    },
+    {
+      "word": "reskilling",
+      "type": "noun",
+      "ipa": "/ˌriːˈskɪlɪŋ/",
+      "def_en": "learning new skills for a different job or industry",
+      "def_vi": "đào tạo lại kỹ năng",
+      "example": "Reskilling programs can help workers adapt to technological change.",
+      "synonyms": ["retraining", "skills renewal"],
+      "band": 8.0
+    },
+    {
+      "word": "self-employed",
+      "type": "adj",
+      "ipa": "/ˌself ɪmˈplɔɪd/",
+      "def_en": "working for oneself rather than for an employer",
+      "def_vi": "tự kinh doanh, làm việc tự do",
+      "example": "Self-employed people often have greater flexibility but less security.",
+      "synonyms": ["independent", "freelance"],
+      "band": 7.0
+    },
+    {
+      "word": "skills mismatch",
+      "type": "noun",
+      "ipa": "/skɪlz ˈmɪsmætʃ/",
+      "def_en": "a gap between workers' skills and employers' needs",
+      "def_vi": "sự không phù hợp kỹ năng",
+      "example": "A skills mismatch can increase unemployment among graduates.",
+      "synonyms": ["skills gap", "qualification mismatch"],
+      "band": 8.0
+    },
+    {
+      "word": "telecommuting",
+      "type": "noun",
+      "ipa": "/ˌtelɪkəˈmjuːtɪŋ/",
+      "def_en": "working from home using telecommunications technology",
+      "def_vi": "làm việc từ xa qua công nghệ",
+      "example": "Telecommuting is now common in many knowledge-based industries.",
+      "synonyms": ["remote working", "teleworking"],
+      "band": 7.5
+    },
+    {
+      "word": "to climb the career ladder",
+      "type": "collocation",
+      "ipa": "/klaɪm ðə kəˈrɪə ˈlædə/",
+      "def_en": "to advance step by step in one's career",
+      "def_vi": "thăng tiến trong sự nghiệp",
+      "example": "Some employees change companies to climb the career ladder faster.",
+      "synonyms": ["advance professionally", "move up in a career"],
+      "band": 7.0
+    },
+    {
+      "word": "toxic workplace",
+      "type": "noun",
+      "ipa": "/ˈtɒksɪk ˈwɜːkpleɪs/",
+      "def_en": "a work environment that harms employees' wellbeing",
+      "def_vi": "môi trường làm việc độc hại",
+      "example": "A toxic workplace can lead to stress, absenteeism, and high turnover.",
+      "synonyms": ["unhealthy work environment"],
+      "band": 8.0
+    },
+    {
+      "word": "unemployment benefits",
+      "type": "noun",
+      "ipa": "/ˌʌnɪmˈplɔɪmənt ˈbenɪfɪts/",
+      "def_en": "financial support paid to people who are out of work",
+      "def_vi": "trợ cấp thất nghiệp",
+      "example": "Unemployment benefits can protect families during economic downturns.",
+      "synonyms": ["jobless benefits", "welfare payments"],
+      "band": 7.0
+    },
+    {
+      "word": "upskilling",
+      "type": "noun",
+      "ipa": "/ˌʌpˈskɪlɪŋ/",
+      "def_en": "learning additional skills to improve performance in a current job",
+      "def_vi": "nâng cao kỹ năng",
+      "example": "Upskilling helps employees remain competitive in the labor market.",
+      "synonyms": ["skill enhancement", "professional training"],
+      "band": 8.0
+    },
+    {
+      "word": "white-collar job",
+      "type": "noun",
+      "ipa": "/ˌwaɪt ˈkɒlə dʒɒb/",
+      "def_en": "office-based work that usually involves mental rather than manual labor",
+      "def_vi": "công việc văn phòng",
+      "example": "Many white-collar jobs now require advanced digital skills.",
+      "synonyms": ["office job", "professional role"],
+      "band": 7.0
+    },
+    {
+      "word": "work-life balance",
+      "type": "noun",
+      "ipa": "/ˌwɜːk laɪf ˈbæləns/",
+      "def_en": "a healthy division between work and personal life",
+      "def_vi": "sự cân bằng giữa công việc và cuộc sống",
+      "example": "A good work-life balance can improve productivity and mental health.",
+      "synonyms": ["life-work balance", "personal-professional balance"],
+      "band": 7.0
+    }
+  ]
+}

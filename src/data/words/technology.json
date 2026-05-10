@@ -1,0 +1,258 @@
+{
+  "category": "technology",
+  "band_range": "7.0-9.0",
+  "description": "Vocabulary for IELTS topics on digital technology, automation, artificial intelligence, privacy, and innovation",
+  "total_entries": 25,
+  "entries": [
+    {
+      "word": "artificial intelligence",
+      "type": "noun",
+      "ipa": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+      "def_en": "computer systems that can perform tasks normally requiring human intelligence",
+      "def_vi": "trí tuệ nhân tạo",
+      "example": "Artificial intelligence is transforming medical diagnosis and customer service.",
+      "synonyms": ["AI", "machine intelligence"],
+      "band": 7.0
+    },
+    {
+      "word": "automation",
+      "type": "noun",
+      "ipa": "/ˌɔːtəˈmeɪʃn/",
+      "def_en": "the use of machines or software to perform tasks without human effort",
+      "def_vi": "tự động hóa",
+      "example": "Automation can improve productivity but may displace low-skilled workers.",
+      "synonyms": ["mechanization", "computerization"],
+      "band": 7.0
+    },
+    {
+      "word": "breakthrough",
+      "type": "noun",
+      "ipa": "/ˈbreɪkθruː/",
+      "def_en": "an important discovery or development",
+      "def_vi": "bước đột phá",
+      "example": "The new battery design represents a major technological breakthrough.",
+      "synonyms": ["innovation", "advance", "milestone"],
+      "band": 7.5
+    },
+    {
+      "word": "cloud computing",
+      "type": "noun",
+      "ipa": "/klaʊd kəmˈpjuːtɪŋ/",
+      "def_en": "the use of internet-based servers to store and process data",
+      "def_vi": "điện toán đám mây",
+      "example": "Cloud computing allows companies to scale their services quickly.",
+      "synonyms": ["cloud services", "remote computing"],
+      "band": 7.0
+    },
+    {
+      "word": "cybersecurity",
+      "type": "noun",
+      "ipa": "/ˌsaɪbə sɪˈkjʊərəti/",
+      "def_en": "protection of computer systems and networks from digital attacks",
+      "def_vi": "an ninh mạng",
+      "example": "Cybersecurity training should be compulsory for employees handling sensitive data.",
+      "synonyms": ["digital security", "network security"],
+      "band": 7.5
+    },
+    {
+      "word": "data breach",
+      "type": "noun",
+      "ipa": "/ˈdeɪtə briːtʃ/",
+      "def_en": "an incident where private data is accessed without permission",
+      "def_vi": "sự cố rò rỉ dữ liệu",
+      "example": "A major data breach can damage a company's reputation.",
+      "synonyms": ["information leak", "security breach"],
+      "band": 7.5
+    },
+    {
+      "word": "digital divide",
+      "type": "noun",
+      "ipa": "/ˌdɪdʒɪtl dɪˈvaɪd/",
+      "def_en": "the gap between people who have access to technology and those who do not",
+      "def_vi": "khoảng cách số",
+      "example": "The digital divide limits educational opportunities in rural areas.",
+      "synonyms": ["technology gap", "access gap"],
+      "band": 7.5
+    },
+    {
+      "word": "digital literacy",
+      "type": "noun",
+      "ipa": "/ˌdɪdʒɪtl ˈlɪtərəsi/",
+      "def_en": "the ability to use digital tools effectively and responsibly",
+      "def_vi": "năng lực số",
+      "example": "Digital literacy is now essential for both students and employees.",
+      "synonyms": ["computer literacy", "technology skills"],
+      "band": 7.0
+    },
+    {
+      "word": "disruptive technology",
+      "type": "noun",
+      "ipa": "/dɪsˈrʌptɪv tekˈnɒlədʒi/",
+      "def_en": "technology that significantly changes an industry or market",
+      "def_vi": "công nghệ đột phá gây thay đổi lớn",
+      "example": "Streaming platforms are often cited as a disruptive technology in entertainment.",
+      "synonyms": ["market-changing innovation"],
+      "band": 8.0
+    },
+    {
+      "word": "facial recognition",
+      "type": "noun",
+      "ipa": "/ˈfeɪʃl ˌrekəɡˈnɪʃn/",
+      "def_en": "technology that identifies people by analyzing their facial features",
+      "def_vi": "nhận diện khuôn mặt",
+      "example": "Facial recognition raises concerns about surveillance and civil liberties.",
+      "synonyms": ["face identification", "biometric recognition"],
+      "band": 7.5
+    },
+    {
+      "word": "high-tech",
+      "type": "adj",
+      "ipa": "/ˌhaɪ ˈtek/",
+      "def_en": "using advanced technology",
+      "def_vi": "công nghệ cao",
+      "example": "High-tech manufacturing requires a highly skilled workforce.",
+      "synonyms": ["advanced", "cutting-edge"],
+      "band": 7.0
+    },
+    {
+      "word": "innovation",
+      "type": "noun",
+      "ipa": "/ˌɪnəˈveɪʃn/",
+      "def_en": "the creation or use of new ideas, methods, or products",
+      "def_vi": "sự đổi mới",
+      "example": "Government grants can encourage innovation among start-ups.",
+      "synonyms": ["creativity", "invention", "novelty"],
+      "band": 7.0
+    },
+    {
+      "word": "intellectual property",
+      "type": "noun",
+      "ipa": "/ˌɪntəˈlektʃuəl ˈprɒpəti/",
+      "def_en": "legal rights over creations such as inventions, designs, and content",
+      "def_vi": "sở hữu trí tuệ",
+      "example": "Strong intellectual property laws can protect inventors.",
+      "synonyms": ["IP", "creative rights"],
+      "band": 8.0
+    },
+    {
+      "word": "machine learning",
+      "type": "noun",
+      "ipa": "/məˌʃiːn ˈlɜːnɪŋ/",
+      "def_en": "a form of AI in which systems improve by learning from data",
+      "def_vi": "học máy",
+      "example": "Machine learning can detect patterns that humans may overlook.",
+      "synonyms": ["statistical learning", "AI learning"],
+      "band": 7.5
+    },
+    {
+      "word": "obsolete",
+      "type": "adj",
+      "ipa": "/ˈɒbsəliːt/",
+      "def_en": "no longer useful because something newer exists",
+      "def_vi": "lỗi thời",
+      "example": "Some manual jobs may become obsolete due to automation.",
+      "synonyms": ["outdated", "outmoded", "superseded"],
+      "band": 7.5
+    },
+    {
+      "word": "online anonymity",
+      "type": "noun",
+      "ipa": "/ˌɒnlaɪn ˌænəˈnɪməti/",
+      "def_en": "the state of not being identifiable on the internet",
+      "def_vi": "sự ẩn danh trực tuyến",
+      "example": "Online anonymity can protect free speech but also encourage abuse.",
+      "synonyms": ["internet anonymity", "digital anonymity"],
+      "band": 8.0
+    },
+    {
+      "word": "privacy infringement",
+      "type": "noun",
+      "ipa": "/ˈprɪvəsi ɪnˈfrɪndʒmənt/",
+      "def_en": "an action that violates someone's right to privacy",
+      "def_vi": "sự xâm phạm quyền riêng tư",
+      "example": "Unregulated tracking may lead to serious privacy infringement.",
+      "synonyms": ["privacy violation", "invasion of privacy"],
+      "band": 8.0
+    },
+    {
+      "word": "remote access",
+      "type": "noun",
+      "ipa": "/rɪˈməʊt ˈækses/",
+      "def_en": "the ability to use a computer system from another location",
+      "def_vi": "truy cập từ xa",
+      "example": "Remote access enables employees to work from home effectively.",
+      "synonyms": ["distance access", "off-site access"],
+      "band": 7.0
+    },
+    {
+      "word": "surveillance",
+      "type": "noun",
+      "ipa": "/səˈveɪləns/",
+      "def_en": "close observation of people, especially by authorities or technology",
+      "def_vi": "sự giám sát",
+      "example": "Excessive surveillance can undermine trust in public institutions.",
+      "synonyms": ["monitoring", "observation"],
+      "band": 7.5
+    },
+    {
+      "word": "technological advancement",
+      "type": "noun",
+      "ipa": "/ˌteknəˈlɒdʒɪkl ədˈvɑːnsmənt/",
+      "def_en": "progress in technology",
+      "def_vi": "tiến bộ công nghệ",
+      "example": "Technological advancement has changed the way people communicate.",
+      "synonyms": ["technological progress", "technical development"],
+      "band": 7.0
+    },
+    {
+      "word": "the gig economy",
+      "type": "noun",
+      "ipa": "/ðə ˈɡɪɡ iˈkɒnəmi/",
+      "def_en": "a labor market based on short-term or freelance work",
+      "def_vi": "nền kinh tế việc làm tự do ngắn hạn",
+      "example": "Digital platforms have accelerated the growth of the gig economy.",
+      "synonyms": ["platform economy", "freelance economy"],
+      "band": 7.5
+    },
+    {
+      "word": "user-friendly",
+      "type": "adj",
+      "ipa": "/ˌjuːzə ˈfrendli/",
+      "def_en": "easy for people to use",
+      "def_vi": "thân thiện với người dùng",
+      "example": "Public services should offer user-friendly digital platforms.",
+      "synonyms": ["intuitive", "easy to use"],
+      "band": 7.0
+    },
+    {
+      "word": "virtual interaction",
+      "type": "noun",
+      "ipa": "/ˈvɜːtʃuəl ˌɪntərˈækʃn/",
+      "def_en": "communication that takes place through digital platforms",
+      "def_vi": "tương tác trực tuyến",
+      "example": "Virtual interaction cannot fully replace face-to-face communication.",
+      "synonyms": ["online communication", "digital interaction"],
+      "band": 7.5
+    },
+    {
+      "word": "wearable technology",
+      "type": "noun",
+      "ipa": "/ˈweərəbl tekˈnɒlədʒi/",
+      "def_en": "electronic devices worn on the body",
+      "def_vi": "công nghệ đeo được",
+      "example": "Wearable technology can help users monitor their health.",
+      "synonyms": ["wearables", "smart devices"],
+      "band": 7.5
+    },
+    {
+      "word": "workforce displacement",
+      "type": "noun",
+      "ipa": "/ˈwɜːkfɔːs dɪsˈpleɪsmənt/",
+      "def_en": "the loss or relocation of jobs due to economic or technological change",
+      "def_vi": "sự thay thế hoặc mất việc trong lực lượng lao động",
+      "example": "Workforce displacement is a common concern in debates about automation.",
+      "synonyms": ["job displacement", "labor disruption"],
+      "band": 8.0
+    }
+  ]
+}

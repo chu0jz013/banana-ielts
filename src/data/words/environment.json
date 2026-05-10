@@ -1,0 +1,258 @@
+{
+  "category": "environment",
+  "band_range": "7.0-9.0",
+  "description": "Vocabulary for IELTS Academic and General Training on climate, conservation, pollution, resources, and sustainability",
+  "total_entries": 25,
+  "entries": [
+    {
+      "word": "biodiversity",
+      "type": "noun",
+      "ipa": "/ˌbaɪəʊdaɪˈvɜːsəti/",
+      "def_en": "the variety of plant and animal life in a particular habitat",
+      "def_vi": "đa dạng sinh học",
+      "example": "Protecting biodiversity should be a priority in national development plans.",
+      "synonyms": ["biological diversity", "species variety"],
+      "band": 7.0
+    },
+    {
+      "word": "carbon footprint",
+      "type": "noun",
+      "ipa": "/ˌkɑːbən ˈfʊtprɪnt/",
+      "def_en": "the amount of carbon dioxide released by a person, activity, or product",
+      "def_vi": "dấu chân carbon",
+      "example": "Commuters can reduce their carbon footprint by using public transport.",
+      "synonyms": ["emissions footprint", "carbon impact"],
+      "band": 7.0
+    },
+    {
+      "word": "climate resilience",
+      "type": "noun",
+      "ipa": "/ˈklaɪmət rɪˈzɪliəns/",
+      "def_en": "the ability to cope with and recover from climate-related shocks",
+      "def_vi": "khả năng chống chịu khí hậu",
+      "example": "Coastal cities need stronger climate resilience to withstand severe storms.",
+      "synonyms": ["climate adaptation capacity"],
+      "band": 8.0
+    },
+    {
+      "word": "conservation",
+      "type": "noun",
+      "ipa": "/ˌkɒnsəˈveɪʃn/",
+      "def_en": "the protection of nature, resources, or historic places",
+      "def_vi": "sự bảo tồn",
+      "example": "Wildlife conservation depends on both legislation and public awareness.",
+      "synonyms": ["preservation", "protection"],
+      "band": 7.0
+    },
+    {
+      "word": "deforestation",
+      "type": "noun",
+      "ipa": "/ˌdiːˌfɒrɪˈsteɪʃn/",
+      "def_en": "the large-scale removal of forests",
+      "def_vi": "nạn phá rừng",
+      "example": "Deforestation accelerates soil erosion and threatens indigenous communities.",
+      "synonyms": ["forest clearance", "logging"],
+      "band": 7.0
+    },
+    {
+      "word": "desertification",
+      "type": "noun",
+      "ipa": "/dɪˌzɜːtɪfɪˈkeɪʃn/",
+      "def_en": "the process by which fertile land becomes desert",
+      "def_vi": "sa mạc hóa",
+      "example": "Poor irrigation practices can intensify desertification in dry regions.",
+      "synonyms": ["land degradation", "aridification"],
+      "band": 8.0
+    },
+    {
+      "word": "ecological balance",
+      "type": "collocation",
+      "ipa": "/ˌiːkəˈlɒdʒɪkl ˈbæləns/",
+      "def_en": "a stable relationship between living organisms and their environment",
+      "def_vi": "cân bằng sinh thái",
+      "example": "Overfishing can disturb the ecological balance of marine ecosystems.",
+      "synonyms": ["environmental equilibrium"],
+      "band": 7.5
+    },
+    {
+      "word": "ecosystem",
+      "type": "noun",
+      "ipa": "/ˈiːkəʊsɪstəm/",
+      "def_en": "a community of organisms interacting with their physical environment",
+      "def_vi": "hệ sinh thái",
+      "example": "Wetlands are a fragile ecosystem that filter water and store carbon.",
+      "synonyms": ["ecological system", "habitat network"],
+      "band": 7.0
+    },
+    {
+      "word": "emission reduction",
+      "type": "collocation",
+      "ipa": "/ɪˈmɪʃn rɪˈdʌkʃn/",
+      "def_en": "a decrease in pollutants or greenhouse gases released into the air",
+      "def_vi": "giảm phát thải",
+      "example": "Emission reduction targets should be legally binding to be effective.",
+      "synonyms": ["pollution reduction", "carbon cuts"],
+      "band": 7.5
+    },
+    {
+      "word": "environmental degradation",
+      "type": "noun",
+      "ipa": "/ɪnˌvaɪrənˈmentl ˌdeɡrəˈdeɪʃn/",
+      "def_en": "the deterioration of the natural environment",
+      "def_vi": "sự suy thoái môi trường",
+      "example": "Rapid industrialization has contributed to environmental degradation.",
+      "synonyms": ["ecological damage", "environmental decline"],
+      "band": 7.5
+    },
+    {
+      "word": "fossil fuels",
+      "type": "noun",
+      "ipa": "/ˈfɒsl ˌfjuːəlz/",
+      "def_en": "coal, oil, and gas formed from ancient organic matter",
+      "def_vi": "nhiên liệu hóa thạch",
+      "example": "Many countries are trying to reduce their reliance on fossil fuels.",
+      "synonyms": ["coal oil and gas", "non-renewable fuels"],
+      "band": 7.0
+    },
+    {
+      "word": "habitat destruction",
+      "type": "noun",
+      "ipa": "/ˈhæbɪtæt dɪˈstrʌkʃn/",
+      "def_en": "damage to the natural home of plants or animals",
+      "def_vi": "sự phá hủy môi trường sống",
+      "example": "Habitat destruction is one of the main causes of species extinction.",
+      "synonyms": ["habitat loss", "ecosystem damage"],
+      "band": 7.0
+    },
+    {
+      "word": "mitigate climate change",
+      "type": "collocation",
+      "ipa": "/ˈmɪtɪɡeɪt ˈklaɪmət tʃeɪndʒ/",
+      "def_en": "to make climate change less severe",
+      "def_vi": "giảm nhẹ biến đổi khí hậu",
+      "example": "Investment in renewable energy can help mitigate climate change.",
+      "synonyms": ["reduce climate impact", "curb global warming"],
+      "band": 8.0
+    },
+    {
+      "word": "natural resources",
+      "type": "noun",
+      "ipa": "/ˈnætʃrəl rɪˈsɔːsɪz/",
+      "def_en": "materials from nature that people use",
+      "def_vi": "tài nguyên thiên nhiên",
+      "example": "Governments must manage natural resources more responsibly.",
+      "synonyms": ["raw materials", "environmental resources"],
+      "band": 7.0
+    },
+    {
+      "word": "overexploitation",
+      "type": "noun",
+      "ipa": "/ˌəʊvərˌeksplɔɪˈteɪʃn/",
+      "def_en": "the excessive use of a resource until it is damaged or depleted",
+      "def_vi": "sự khai thác quá mức",
+      "example": "The overexploitation of groundwater has created serious shortages.",
+      "synonyms": ["overuse", "excessive extraction"],
+      "band": 8.0
+    },
+    {
+      "word": "pollutant",
+      "type": "noun",
+      "ipa": "/pəˈluːtənt/",
+      "def_en": "a substance that contaminates air, water, or soil",
+      "def_vi": "chất gây ô nhiễm",
+      "example": "Factories should be fined for releasing harmful pollutants.",
+      "synonyms": ["contaminant", "toxic substance"],
+      "band": 7.0
+    },
+    {
+      "word": "renewable energy",
+      "type": "noun",
+      "ipa": "/rɪˈnjuːəbl ˈenədʒi/",
+      "def_en": "energy from sources that are naturally replenished",
+      "def_vi": "năng lượng tái tạo",
+      "example": "Renewable energy can reduce dependence on imported oil.",
+      "synonyms": ["clean energy", "sustainable energy"],
+      "band": 7.0
+    },
+    {
+      "word": "resource depletion",
+      "type": "noun",
+      "ipa": "/rɪˈsɔːs dɪˈpliːʃn/",
+      "def_en": "the exhaustion of natural resources",
+      "def_vi": "sự cạn kiệt tài nguyên",
+      "example": "Resource depletion may trigger conflict in water-scarce regions.",
+      "synonyms": ["resource exhaustion", "resource scarcity"],
+      "band": 7.5
+    },
+    {
+      "word": "sustainable development",
+      "type": "noun",
+      "ipa": "/səˌsteɪnəbl dɪˈveləpmənt/",
+      "def_en": "development that meets current needs without harming future generations",
+      "def_vi": "phát triển bền vững",
+      "example": "Sustainable development requires economic growth and environmental protection.",
+      "synonyms": ["balanced development", "long-term development"],
+      "band": 7.0
+    },
+    {
+      "word": "toxic waste",
+      "type": "noun",
+      "ipa": "/ˈtɒksɪk weɪst/",
+      "def_en": "poisonous waste that can harm people or ecosystems",
+      "def_vi": "chất thải độc hại",
+      "example": "Illegal dumping of toxic waste poses a threat to public health.",
+      "synonyms": ["hazardous waste", "poisonous waste"],
+      "band": 7.0
+    },
+    {
+      "word": "urban sprawl",
+      "type": "noun",
+      "ipa": "/ˈɜːbən sprɔːl/",
+      "def_en": "the uncontrolled spread of cities into surrounding countryside",
+      "def_vi": "sự đô thị hóa lan rộng thiếu kiểm soát",
+      "example": "Urban sprawl increases traffic congestion and destroys farmland.",
+      "synonyms": ["unplanned urban expansion"],
+      "band": 8.0
+    },
+    {
+      "word": "waste management",
+      "type": "noun",
+      "ipa": "/weɪst ˈmænɪdʒmənt/",
+      "def_en": "the collection, treatment, and disposal of waste",
+      "def_vi": "quản lý chất thải",
+      "example": "Effective waste management can reduce landfill pressure.",
+      "synonyms": ["waste disposal", "refuse management"],
+      "band": 7.0
+    },
+    {
+      "word": "water scarcity",
+      "type": "noun",
+      "ipa": "/ˈwɔːtə ˈskeəsəti/",
+      "def_en": "a shortage of available water",
+      "def_vi": "sự khan hiếm nước",
+      "example": "Water scarcity is likely to worsen as temperatures rise.",
+      "synonyms": ["water shortage", "water stress"],
+      "band": 7.5
+    },
+    {
+      "word": "wildlife sanctuary",
+      "type": "noun",
+      "ipa": "/ˈwaɪldlaɪf ˈsæŋktʃuəri/",
+      "def_en": "a protected area where wild animals can live safely",
+      "def_vi": "khu bảo tồn động vật hoang dã",
+      "example": "The wildlife sanctuary attracts researchers and eco-tourists.",
+      "synonyms": ["nature reserve", "protected habitat"],
+      "band": 7.5
+    },
+    {
+      "word": "zero-waste lifestyle",
+      "type": "noun",
+      "ipa": "/ˌzɪərəʊ ˈweɪst ˈlaɪfstaɪl/",
+      "def_en": "a way of living that aims to produce almost no rubbish",
+      "def_vi": "lối sống không rác thải",
+      "example": "A zero-waste lifestyle encourages consumers to reuse and repair products.",
+      "synonyms": ["low-waste living", "waste-free lifestyle"],
+      "band": 8.0
+    }
+  ]
+}

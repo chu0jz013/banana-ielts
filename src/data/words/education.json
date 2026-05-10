@@ -1,0 +1,2118 @@
+{
+  "category": "education",
+  "band_range": "7.0-9.0",
+  "description": "Vocabulary for IELTS Academic on schools, universities, learning, teaching, pedagogy, and educational policy",
+  "total_entries": 211,
+  "entries": [
+    {
+      "word": "academia",
+      "type": "noun",
+      "ipa": "/ˌækəˈdiːmiə/",
+      "def_en": "the world of learning, teaching, scholarship, etc.",
+      "def_vi": "giới học thuật",
+      "example": "He left academia to pursue a career in industry.",
+      "synonyms": ["scholarship", "academe"],
+      "band": 7.0
+    },
+    {
+      "word": "academic rigor",
+      "type": "collocation",
+      "ipa": "/ˌækəˈdemɪk ˈrɪɡər/",
+      "def_en": "high standards of intellectual challenge in education",
+      "def_vi": "tính nghiêm ngặt học thuật",
+      "example": "The university is known for its academic rigor.",
+      "synonyms": ["intellectual rigor"],
+      "band": 7.5
+    },
+    {
+      "word": "accreditation",
+      "type": "noun",
+      "ipa": "/əˌkredɪˈteɪʃn/",
+      "def_en": "official recognition that an institution meets standards",
+      "def_vi": "sự công nhận chính thức",
+      "example": "The program received international accreditation.",
+      "synonyms": ["certification", "recognition"],
+      "band": 7.5
+    },
+    {
+      "word": "achievement gap",
+      "type": "collocation",
+      "ipa": "/əˈtʃiːvmənt ɡæp/",
+      "def_en": "disparity in academic performance between groups",
+      "def_vi": "khoảng cách thành tích",
+      "example": "Policies aim to close the achievement gap.",
+      "synonyms": ["performance disparity"],
+      "band": 7.5
+    },
+    {
+      "word": "acquire knowledge",
+      "type": "collocation",
+      "ipa": "/əˈkwaɪər ˈnɒlɪdʒ/",
+      "def_en": "to gain knowledge through study",
+      "def_vi": "tiếp thu kiến thức",
+      "example": "Students acquire knowledge through diverse methods.",
+      "synonyms": ["gain knowledge", "obtain knowledge"],
+      "band": 7.0
+    },
+    {
+      "word": "adept",
+      "type": "adj",
+      "ipa": "/əˈdept/",
+      "def_en": "very skilled or proficient at something",
+      "def_vi": "thành thạo",
+      "example": "She is adept at solving complex problems.",
+      "synonyms": ["proficient", "skilled", "expert"],
+      "band": 7.5
+    },
+    {
+      "word": "adversely affect",
+      "type": "collocation",
+      "ipa": "/ˈædvɜːsli əˈfekt/",
+      "def_en": "to have a negative effect on",
+      "def_vi": "ảnh hưởng tiêu cực",
+      "example": "Stress adversely affects student performance.",
+      "synonyms": ["negatively impact"],
+      "band": 7.5
+    },
+    {
+      "word": "alma mater",
+      "type": "noun",
+      "ipa": "/ˌælmə ˈmɑːtər/",
+      "def_en": "the school, college, or university one attended",
+      "def_vi": "trường cũ",
+      "example": "He donated generously to his alma mater.",
+      "synonyms": ["former school"],
+      "band": 8.0
+    },
+    {
+      "word": "anthropology",
+      "type": "noun",
+      "ipa": "/ˌænθrəˈpɒlədʒi/",
+      "def_en": "the study of human societies and cultures",
+      "def_vi": "nhân chủng học",
+      "example": "She majored in cultural anthropology.",
+      "synonyms": ["study of humanity"],
+      "band": 7.5
+    },
+    {
+      "word": "apprenticeship",
+      "type": "noun",
+      "ipa": "/əˈprentɪʃɪp/",
+      "def_en": "a system of training a new generation of practitioners",
+      "def_vi": "kỳ học việc",
+      "example": "He completed a four-year apprenticeship.",
+      "synonyms": ["training", "internship"],
+      "band": 7.0
+    },
+    {
+      "word": "aptitude",
+      "type": "noun",
+      "ipa": "/ˈæptɪtjuːd/",
+      "def_en": "natural ability to do something",
+      "def_vi": "năng khiếu",
+      "example": "She has a remarkable aptitude for languages.",
+      "synonyms": ["talent", "flair", "knack"],
+      "band": 7.5
+    },
+    {
+      "word": "articulate",
+      "type": "adj",
+      "ipa": "/ɑːˈtɪkjələt/",
+      "def_en": "able to express thoughts clearly",
+      "def_vi": "diễn đạt rõ ràng",
+      "example": "She is an articulate speaker on educational reform.",
+      "synonyms": ["eloquent", "fluent"],
+      "band": 7.5
+    },
+    {
+      "word": "assessment criteria",
+      "type": "collocation",
+      "ipa": "/əˈsesmənt kraɪˈtɪəriə/",
+      "def_en": "standards used to evaluate work",
+      "def_vi": "tiêu chí đánh giá",
+      "example": "Students must understand the assessment criteria.",
+      "synonyms": ["evaluation standards"],
+      "band": 7.0
+    },
+    {
+      "word": "assimilate",
+      "type": "verb",
+      "ipa": "/əˈsɪmɪleɪt/",
+      "def_en": "to take in and understand information",
+      "def_vi": "tiếp thu",
+      "example": "Children assimilate new vocabulary quickly.",
+      "synonyms": ["absorb", "comprehend"],
+      "band": 7.5
+    },
+    {
+      "word": "auditorium",
+      "type": "noun",
+      "ipa": "/ˌɔːdɪˈtɔːriəm/",
+      "def_en": "a large hall for lectures or performances",
+      "def_vi": "thính đường",
+      "example": "The lecture was held in the main auditorium.",
+      "synonyms": ["hall", "lecture theatre"],
+      "band": 7.0
+    },
+    {
+      "word": "autonomous learning",
+      "type": "collocation",
+      "ipa": "/ɔːˈtɒnəməs ˈlɜːnɪŋ/",
+      "def_en": "self-directed learning without supervision",
+      "def_vi": "học tự chủ",
+      "example": "Universities promote autonomous learning.",
+      "synonyms": ["self-directed learning"],
+      "band": 7.5
+    },
+    {
+      "word": "bachelor's degree",
+      "type": "noun",
+      "ipa": "/ˈbætʃələz dɪˈɡriː/",
+      "def_en": "a first university degree",
+      "def_vi": "bằng cử nhân",
+      "example": "He earned a bachelor's degree in economics.",
+      "synonyms": ["undergraduate degree"],
+      "band": 7.0
+    },
+    {
+      "word": "behavioral problems",
+      "type": "collocation",
+      "ipa": "/bɪˈheɪvjərəl ˈprɒbləmz/",
+      "def_en": "issues with conduct in the classroom",
+      "def_vi": "vấn đề về hành vi",
+      "example": "Teachers are trained to manage behavioral problems.",
+      "synonyms": ["conduct issues"],
+      "band": 7.0
+    },
+    {
+      "word": "bilingual education",
+      "type": "collocation",
+      "ipa": "/baɪˈlɪŋɡwəl ˌedʒuˈkeɪʃn/",
+      "def_en": "instruction in two languages",
+      "def_vi": "giáo dục song ngữ",
+      "example": "Bilingual education benefits cognitive development.",
+      "synonyms": ["dual-language education"],
+      "band": 7.5
+    },
+    {
+      "word": "boarding school",
+      "type": "noun",
+      "ipa": "/ˈbɔːdɪŋ skuːl/",
+      "def_en": "a school where students live during term time",
+      "def_vi": "trường nội trú",
+      "example": "He was sent to a boarding school at age twelve.",
+      "synonyms": ["residential school"],
+      "band": 7.0
+    },
+    {
+      "word": "brain drain",
+      "type": "noun",
+      "ipa": "/breɪn dreɪn/",
+      "def_en": "emigration of highly trained people from a country",
+      "def_vi": "chảy máu chất xám",
+      "example": "The brain drain affects developing nations.",
+      "synonyms": ["talent migration"],
+      "band": 7.5
+    },
+    {
+      "word": "broaden horizons",
+      "type": "collocation",
+      "ipa": "/ˈbrɔːdn həˈraɪznz/",
+      "def_en": "to expand one's range of experiences",
+      "def_vi": "mở rộng tầm nhìn",
+      "example": "Travel broadens horizons.",
+      "synonyms": ["expand perspectives"],
+      "band": 7.5
+    },
+    {
+      "word": "bullying",
+      "type": "noun",
+      "ipa": "/ˈbʊliɪŋ/",
+      "def_en": "use of force to intimidate others",
+      "def_vi": "bắt nạt",
+      "example": "Schools have anti-bullying policies.",
+      "synonyms": ["harassment", "intimidation"],
+      "band": 7.0
+    },
+    {
+      "word": "campus",
+      "type": "noun",
+      "ipa": "/ˈkæmpəs/",
+      "def_en": "the grounds and buildings of a university",
+      "def_vi": "khuôn viên trường",
+      "example": "The campus has modern facilities.",
+      "synonyms": ["university grounds"],
+      "band": 7.0
+    },
+    {
+      "word": "career prospects",
+      "type": "collocation",
+      "ipa": "/kəˈrɪər ˈprɒspekts/",
+      "def_en": "future opportunities in employment",
+      "def_vi": "triển vọng nghề nghiệp",
+      "example": "A degree improves career prospects.",
+      "synonyms": ["job opportunities"],
+      "band": 7.5
+    },
+    {
+      "word": "cater to",
+      "type": "phrasal verb",
+      "ipa": "/ˈkeɪtər tuː/",
+      "def_en": "to provide what is needed by a particular group",
+      "def_vi": "đáp ứng nhu cầu",
+      "example": "The school caters to gifted students.",
+      "synonyms": ["serve", "accommodate"],
+      "band": 7.5
+    },
+    {
+      "word": "cognitive development",
+      "type": "collocation",
+      "ipa": "/ˈkɒɡnətɪv dɪˈveləpmənt/",
+      "def_en": "the growth of thinking abilities",
+      "def_vi": "phát triển nhận thức",
+      "example": "Play supports cognitive development in children.",
+      "synonyms": ["mental development"],
+      "band": 7.5
+    },
+    {
+      "word": "cognitive skills",
+      "type": "collocation",
+      "ipa": "/ˈkɒɡnətɪv skɪlz/",
+      "def_en": "mental abilities such as reasoning",
+      "def_vi": "kỹ năng nhận thức",
+      "example": "Puzzles enhance cognitive skills.",
+      "synonyms": ["thinking skills"],
+      "band": 7.0
+    },
+    {
+      "word": "collaborative learning",
+      "type": "collocation",
+      "ipa": "/kəˈlæbərətɪv ˈlɜːnɪŋ/",
+      "def_en": "learning through working with others",
+      "def_vi": "học hợp tác",
+      "example": "Collaborative learning fosters social skills.",
+      "synonyms": ["cooperative learning"],
+      "band": 7.5
+    },
+    {
+      "word": "compulsory education",
+      "type": "collocation",
+      "ipa": "/kəmˈpʌlsəri ˌedʒuˈkeɪʃn/",
+      "def_en": "education required by law",
+      "def_vi": "giáo dục bắt buộc",
+      "example": "Compulsory education ends at age sixteen.",
+      "synonyms": ["mandatory education"],
+      "band": 7.5
+    },
+    {
+      "word": "comprehensive curriculum",
+      "type": "collocation",
+      "ipa": "/ˌkɒmprɪˈhensɪv kəˈrɪkjələm/",
+      "def_en": "a complete program of study",
+      "def_vi": "chương trình toàn diện",
+      "example": "The school offers a comprehensive curriculum.",
+      "synonyms": ["full curriculum"],
+      "band": 7.5
+    },
+    {
+      "word": "conceptual understanding",
+      "type": "collocation",
+      "ipa": "/kənˈseptʃuəl ˌʌndəˈstændɪŋ/",
+      "def_en": "grasp of underlying ideas",
+      "def_vi": "hiểu khái niệm",
+      "example": "Math requires conceptual understanding.",
+      "synonyms": ["theoretical grasp"],
+      "band": 7.5
+    },
+    {
+      "word": "conducive to",
+      "type": "adj",
+      "ipa": "/kənˈdjuːsɪv tuː/",
+      "def_en": "making something likely or possible",
+      "def_vi": "có lợi cho",
+      "example": "A quiet room is conducive to study.",
+      "synonyms": ["favorable to", "helpful for"],
+      "band": 7.5
+    },
+    {
+      "word": "confer a degree",
+      "type": "collocation",
+      "ipa": "/kənˈfɜːr ə dɪˈɡriː/",
+      "def_en": "to award an academic qualification",
+      "def_vi": "trao bằng",
+      "example": "The university confers degrees in June.",
+      "synonyms": ["award a degree"],
+      "band": 8.0
+    },
+    {
+      "word": "consolidate knowledge",
+      "type": "collocation",
+      "ipa": "/kənˈsɒlɪdeɪt ˈnɒlɪdʒ/",
+      "def_en": "to strengthen and combine learning",
+      "def_vi": "củng cố kiến thức",
+      "example": "Review sessions help consolidate knowledge.",
+      "synonyms": ["reinforce learning"],
+      "band": 7.5
+    },
+    {
+      "word": "continuing education",
+      "type": "collocation",
+      "ipa": "/kənˈtɪnjuɪŋ ˌedʒuˈkeɪʃn/",
+      "def_en": "ongoing learning beyond formal schooling",
+      "def_vi": "giáo dục thường xuyên",
+      "example": "Continuing education keeps skills current.",
+      "synonyms": ["adult education"],
+      "band": 7.0
+    },
+    {
+      "word": "core subjects",
+      "type": "collocation",
+      "ipa": "/kɔːr ˈsʌbdʒɪkts/",
+      "def_en": "essential academic disciplines",
+      "def_vi": "môn học cốt lõi",
+      "example": "Math and English are core subjects.",
+      "synonyms": ["main subjects"],
+      "band": 7.0
+    },
+    {
+      "word": "credential",
+      "type": "noun",
+      "ipa": "/krəˈdenʃl/",
+      "def_en": "a qualification or achievement",
+      "def_vi": "chứng chỉ",
+      "example": "The job requires advanced credentials.",
+      "synonyms": ["qualification", "certificate"],
+      "band": 7.5
+    },
+    {
+      "word": "critical thinking",
+      "type": "collocation",
+      "ipa": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/",
+      "def_en": "objective analysis of facts",
+      "def_vi": "tư duy phản biện",
+      "example": "Education should foster critical thinking.",
+      "synonyms": ["analytical thinking"],
+      "band": 7.0
+    },
+    {
+      "word": "cultivate talent",
+      "type": "collocation",
+      "ipa": "/ˈkʌltɪveɪt ˈtælənt/",
+      "def_en": "to develop natural ability",
+      "def_vi": "bồi dưỡng tài năng",
+      "example": "The program cultivates young talent.",
+      "synonyms": ["nurture talent"],
+      "band": 7.5
+    },
+    {
+      "word": "curriculum",
+      "type": "noun",
+      "ipa": "/kəˈrɪkjələm/",
+      "def_en": "the subjects taught in a school or college",
+      "def_vi": "chương trình học",
+      "example": "The curriculum was recently revised.",
+      "synonyms": ["syllabus", "course of study"],
+      "band": 7.0
+    },
+    {
+      "word": "decipher",
+      "type": "verb",
+      "ipa": "/dɪˈsaɪfər/",
+      "def_en": "to figure out the meaning of something puzzling",
+      "def_vi": "giải mã",
+      "example": "Students must decipher complex texts.",
+      "synonyms": ["decode", "interpret"],
+      "band": 8.0
+    },
+    {
+      "word": "demanding workload",
+      "type": "collocation",
+      "ipa": "/dɪˈmɑːndɪŋ ˈwɜːkləʊd/",
+      "def_en": "amount of work that requires great effort",
+      "def_vi": "khối lượng công việc lớn",
+      "example": "Medical students face a demanding workload.",
+      "synonyms": ["heavy workload"],
+      "band": 7.0
+    },
+    {
+      "word": "developmental stage",
+      "type": "collocation",
+      "ipa": "/dɪˌveləpˈmentl steɪdʒ/",
+      "def_en": "a phase of growth",
+      "def_vi": "giai đoạn phát triển",
+      "example": "Children at this developmental stage need stimulation.",
+      "synonyms": ["growth phase"],
+      "band": 7.0
+    },
+    {
+      "word": "didactic",
+      "type": "adj",
+      "ipa": "/daɪˈdæktɪk/",
+      "def_en": "intended to teach a moral lesson",
+      "def_vi": "có tính giáo huấn",
+      "example": "The novel has a didactic tone.",
+      "synonyms": ["instructive", "educational"],
+      "band": 8.5
+    },
+    {
+      "word": "differentiated instruction",
+      "type": "collocation",
+      "ipa": "/ˌdɪfəˈrenʃieɪtɪd ɪnˈstrʌkʃn/",
+      "def_en": "tailoring teaching to individual needs",
+      "def_vi": "dạy phân hóa",
+      "example": "Differentiated instruction supports diverse learners.",
+      "synonyms": ["individualized teaching"],
+      "band": 8.0
+    },
+    {
+      "word": "diligent",
+      "type": "adj",
+      "ipa": "/ˈdɪlɪdʒənt/",
+      "def_en": "showing care and effort in work",
+      "def_vi": "chăm chỉ",
+      "example": "She is a diligent student who never misses class.",
+      "synonyms": ["hardworking", "industrious"],
+      "band": 7.5
+    },
+    {
+      "word": "discipline",
+      "type": "noun",
+      "ipa": "/ˈdɪsəplɪn/",
+      "def_en": "a branch of knowledge",
+      "def_vi": "ngành học",
+      "example": "Physics is a challenging discipline.",
+      "synonyms": ["field", "subject area"],
+      "band": 7.0
+    },
+    {
+      "word": "disengaged students",
+      "type": "collocation",
+      "ipa": "/ˌdɪsɪnˈɡeɪdʒd ˈstjuːdnts/",
+      "def_en": "students lacking interest",
+      "def_vi": "học sinh thiếu hứng thú",
+      "example": "Disengaged students often underperform.",
+      "synonyms": ["uninterested students"],
+      "band": 7.5
+    },
+    {
+      "word": "dissertation",
+      "type": "noun",
+      "ipa": "/ˌdɪsəˈteɪʃn/",
+      "def_en": "a long academic essay or thesis",
+      "def_vi": "luận văn",
+      "example": "She is writing her doctoral dissertation.",
+      "synonyms": ["thesis", "treatise"],
+      "band": 7.5
+    },
+    {
+      "word": "distance learning",
+      "type": "collocation",
+      "ipa": "/ˈdɪstəns ˈlɜːnɪŋ/",
+      "def_en": "education conducted remotely",
+      "def_vi": "học từ xa",
+      "example": "Distance learning expanded during the pandemic.",
+      "synonyms": ["online learning", "remote education"],
+      "band": 7.0
+    },
+    {
+      "word": "diverse learners",
+      "type": "collocation",
+      "ipa": "/daɪˈvɜːs ˈlɜːnəz/",
+      "def_en": "students with varied backgrounds",
+      "def_vi": "người học đa dạng",
+      "example": "Teachers must accommodate diverse learners.",
+      "synonyms": ["varied students"],
+      "band": 7.5
+    },
+    {
+      "word": "doctoral candidate",
+      "type": "collocation",
+      "ipa": "/ˈdɒktərəl ˈkændɪdət/",
+      "def_en": "a person pursuing a PhD",
+      "def_vi": "nghiên cứu sinh",
+      "example": "The doctoral candidate defended her thesis.",
+      "synonyms": ["PhD student"],
+      "band": 7.5
+    },
+    {
+      "word": "drop out",
+      "type": "phrasal verb",
+      "ipa": "/drɒp aʊt/",
+      "def_en": "to leave a course before completing it",
+      "def_vi": "bỏ học",
+      "example": "Many students drop out for financial reasons.",
+      "synonyms": ["abandon studies", "withdraw"],
+      "band": 7.0
+    },
+    {
+      "word": "dynamic teaching",
+      "type": "collocation",
+      "ipa": "/daɪˈnæmɪk ˈtiːtʃɪŋ/",
+      "def_en": "engaging and energetic instruction",
+      "def_vi": "giảng dạy năng động",
+      "example": "Dynamic teaching keeps students engaged.",
+      "synonyms": ["lively teaching"],
+      "band": 7.5
+    },
+    {
+      "word": "early childhood education",
+      "type": "collocation",
+      "ipa": "/ˈɜːli ˈtʃaɪldhʊd ˌedʒuˈkeɪʃn/",
+      "def_en": "education for young children",
+      "def_vi": "giáo dục mầm non",
+      "example": "Early childhood education shapes development.",
+      "synonyms": ["preschool education"],
+      "band": 7.0
+    },
+    {
+      "word": "educate the masses",
+      "type": "collocation",
+      "ipa": "/ˈedʒukeɪt ðə ˈmæsɪz/",
+      "def_en": "to teach large numbers of people",
+      "def_vi": "giáo dục đại chúng",
+      "example": "Public schools were designed to educate the masses.",
+      "synonyms": ["mass education"],
+      "band": 7.5
+    },
+    {
+      "word": "educational attainment",
+      "type": "collocation",
+      "ipa": "/ˌedʒuˈkeɪʃənl əˈteɪnmənt/",
+      "def_en": "highest level of education completed",
+      "def_vi": "trình độ học vấn",
+      "example": "Educational attainment correlates with income.",
+      "synonyms": ["academic level"],
+      "band": 7.5
+    },
+    {
+      "word": "educational disparity",
+      "type": "collocation",
+      "ipa": "/ˌedʒuˈkeɪʃənl dɪˈspærəti/",
+      "def_en": "inequality in educational opportunity",
+      "def_vi": "chênh lệch giáo dục",
+      "example": "Funding addresses educational disparity.",
+      "synonyms": ["education gap"],
+      "band": 8.0
+    },
+    {
+      "word": "educational institution",
+      "type": "collocation",
+      "ipa": "/ˌedʒuˈkeɪʃənl ˌɪnstɪˈtjuːʃn/",
+      "def_en": "a place of formal learning",
+      "def_vi": "cơ sở giáo dục",
+      "example": "She works at a prestigious educational institution.",
+      "synonyms": ["school", "academy"],
+      "band": 7.0
+    },
+    {
+      "word": "educational reform",
+      "type": "collocation",
+      "ipa": "/ˌedʒuˈkeɪʃənl rɪˈfɔːm/",
+      "def_en": "changes to improve the education system",
+      "def_vi": "cải cách giáo dục",
+      "example": "Educational reform is on the political agenda.",
+      "synonyms": ["education reform"],
+      "band": 7.5
+    },
+    {
+      "word": "elective course",
+      "type": "collocation",
+      "ipa": "/ɪˈlektɪv kɔːs/",
+      "def_en": "an optional class chosen by students",
+      "def_vi": "môn học tự chọn",
+      "example": "Photography is a popular elective course.",
+      "synonyms": ["optional class"],
+      "band": 7.0
+    },
+    {
+      "word": "embark on",
+      "type": "phrasal verb",
+      "ipa": "/ɪmˈbɑːk ɒn/",
+      "def_en": "to start something new",
+      "def_vi": "bắt đầu",
+      "example": "She embarked on her doctoral studies.",
+      "synonyms": ["begin", "commence"],
+      "band": 7.5
+    },
+    {
+      "word": "emphasize",
+      "type": "verb",
+      "ipa": "/ˈemfəsaɪz/",
+      "def_en": "to give special importance to",
+      "def_vi": "nhấn mạnh",
+      "example": "The teacher emphasized the importance of revision.",
+      "synonyms": ["stress", "highlight"],
+      "band": 7.0
+    },
+    {
+      "word": "encyclopedic",
+      "type": "adj",
+      "ipa": "/ɪnˌsaɪkləˈpiːdɪk/",
+      "def_en": "comprehensive in scope",
+      "def_vi": "bách khoa",
+      "example": "He has an encyclopedic knowledge of history.",
+      "synonyms": ["comprehensive", "wide-ranging"],
+      "band": 8.0
+    },
+    {
+      "word": "enroll",
+      "type": "verb",
+      "ipa": "/ɪnˈrəʊl/",
+      "def_en": "to officially register for a course",
+      "def_vi": "đăng ký nhập học",
+      "example": "She enrolled in the linguistics program.",
+      "synonyms": ["register", "sign up"],
+      "band": 7.0
+    },
+    {
+      "word": "entrenched inequality",
+      "type": "collocation",
+      "ipa": "/ɪnˈtrentʃt ˌɪnɪˈkwɒləti/",
+      "def_en": "deeply rooted unfairness",
+      "def_vi": "bất bình đẳng cố hữu",
+      "example": "Education tackles entrenched inequality.",
+      "synonyms": ["deep-rooted inequality"],
+      "band": 8.5
+    },
+    {
+      "word": "entrance examination",
+      "type": "collocation",
+      "ipa": "/ˈentrəns ɪɡˌzæmɪˈneɪʃn/",
+      "def_en": "a test to determine admission",
+      "def_vi": "kỳ thi tuyển sinh",
+      "example": "The entrance examination is highly competitive.",
+      "synonyms": ["admission test"],
+      "band": 7.0
+    },
+    {
+      "word": "equip students",
+      "type": "collocation",
+      "ipa": "/ɪˈkwɪp ˈstjuːdnts/",
+      "def_en": "to provide students with skills",
+      "def_vi": "trang bị cho học sinh",
+      "example": "Schools equip students with life skills.",
+      "synonyms": ["prepare students"],
+      "band": 7.5
+    },
+    {
+      "word": "erudite",
+      "type": "adj",
+      "ipa": "/ˈeruːdaɪt/",
+      "def_en": "showing great knowledge",
+      "def_vi": "uyên bác",
+      "example": "He gave an erudite lecture on philosophy.",
+      "synonyms": ["learned", "scholarly"],
+      "band": 8.5
+    },
+    {
+      "word": "evaluate progress",
+      "type": "collocation",
+      "ipa": "/ɪˈvæljueɪt ˈprəʊɡres/",
+      "def_en": "to assess advancement",
+      "def_vi": "đánh giá tiến bộ",
+      "example": "Tests evaluate student progress.",
+      "synonyms": ["assess advancement"],
+      "band": 7.0
+    },
+    {
+      "word": "exemplify",
+      "type": "verb",
+      "ipa": "/ɪɡˈzemplɪfaɪ/",
+      "def_en": "to be a typical example of",
+      "def_vi": "minh họa",
+      "example": "Her work exemplifies academic excellence.",
+      "synonyms": ["illustrate", "typify"],
+      "band": 7.5
+    },
+    {
+      "word": "experiential learning",
+      "type": "collocation",
+      "ipa": "/ɪkˌspɪəriˈenʃl ˈlɜːnɪŋ/",
+      "def_en": "learning through direct experience",
+      "def_vi": "học qua trải nghiệm",
+      "example": "Experiential learning deepens understanding.",
+      "synonyms": ["learning by doing"],
+      "band": 7.5
+    },
+    {
+      "word": "extracurricular activities",
+      "type": "collocation",
+      "ipa": "/ˌekstrəkəˈrɪkjələr ækˈtɪvətiz/",
+      "def_en": "activities outside the formal curriculum",
+      "def_vi": "hoạt động ngoại khóa",
+      "example": "Extracurricular activities develop social skills.",
+      "synonyms": ["after-school activities"],
+      "band": 7.0
+    },
+    {
+      "word": "facilitate learning",
+      "type": "collocation",
+      "ipa": "/fəˈsɪlɪteɪt ˈlɜːnɪŋ/",
+      "def_en": "to make learning easier",
+      "def_vi": "tạo điều kiện học tập",
+      "example": "Technology facilitates learning.",
+      "synonyms": ["enable learning"],
+      "band": 7.5
+    },
+    {
+      "word": "faculty",
+      "type": "noun",
+      "ipa": "/ˈfæklti/",
+      "def_en": "the teaching staff of a university",
+      "def_vi": "đội ngũ giảng viên",
+      "example": "The faculty includes leading researchers.",
+      "synonyms": ["teaching staff", "academics"],
+      "band": 7.0
+    },
+    {
+      "word": "fall behind",
+      "type": "phrasal verb",
+      "ipa": "/fɔːl bɪˈhaɪnd/",
+      "def_en": "to fail to keep up",
+      "def_vi": "tụt lại phía sau",
+      "example": "Some students fall behind in math.",
+      "synonyms": ["lag", "trail"],
+      "band": 7.0
+    },
+    {
+      "word": "field of study",
+      "type": "collocation",
+      "ipa": "/fiːld əv ˈstʌdi/",
+      "def_en": "a branch of academic learning",
+      "def_vi": "lĩnh vực nghiên cứu",
+      "example": "Linguistics is her field of study.",
+      "synonyms": ["academic discipline"],
+      "band": 7.0
+    },
+    {
+      "word": "first-rate education",
+      "type": "collocation",
+      "ipa": "/ˌfɜːst ˈreɪt ˌedʒuˈkeɪʃn/",
+      "def_en": "highest quality education",
+      "def_vi": "giáo dục hàng đầu",
+      "example": "The school provides a first-rate education.",
+      "synonyms": ["top-quality education"],
+      "band": 7.5
+    },
+    {
+      "word": "flunk",
+      "type": "verb",
+      "ipa": "/flʌŋk/",
+      "def_en": "to fail an exam (informal)",
+      "def_vi": "trượt môn",
+      "example": "He flunked his final exam.",
+      "synonyms": ["fail"],
+      "band": 7.5
+    },
+    {
+      "word": "formative assessment",
+      "type": "collocation",
+      "ipa": "/ˈfɔːmətɪv əˈsesmənt/",
+      "def_en": "ongoing evaluation during learning",
+      "def_vi": "đánh giá quá trình",
+      "example": "Formative assessment guides instruction.",
+      "synonyms": ["ongoing evaluation"],
+      "band": 8.0
+    },
+    {
+      "word": "foster creativity",
+      "type": "collocation",
+      "ipa": "/ˈfɒstər kriːeɪˈtɪvəti/",
+      "def_en": "to encourage creative thinking",
+      "def_vi": "nuôi dưỡng sự sáng tạo",
+      "example": "Art classes foster creativity.",
+      "synonyms": ["encourage creativity"],
+      "band": 7.5
+    },
+    {
+      "word": "freshman",
+      "type": "noun",
+      "ipa": "/ˈfreʃmən/",
+      "def_en": "a first-year student",
+      "def_vi": "sinh viên năm nhất",
+      "example": "She is a freshman at Yale.",
+      "synonyms": ["first-year student"],
+      "band": 7.0
+    },
+    {
+      "word": "gifted students",
+      "type": "collocation",
+      "ipa": "/ˈɡɪftɪd ˈstjuːdnts/",
+      "def_en": "students with exceptional ability",
+      "def_vi": "học sinh có năng khiếu",
+      "example": "Gifted students need challenging work.",
+      "synonyms": ["talented students"],
+      "band": 7.0
+    },
+    {
+      "word": "graduate",
+      "type": "verb",
+      "ipa": "/ˈɡrædʒueɪt/",
+      "def_en": "to complete a course of study",
+      "def_vi": "tốt nghiệp",
+      "example": "She graduates next summer.",
+      "synonyms": ["complete studies"],
+      "band": 7.0
+    },
+    {
+      "word": "grant funding",
+      "type": "collocation",
+      "ipa": "/ɡrɑːnt ˈfʌndɪŋ/",
+      "def_en": "money provided for research",
+      "def_vi": "tài trợ nghiên cứu",
+      "example": "She secured grant funding for her project.",
+      "synonyms": ["research funding"],
+      "band": 7.5
+    },
+    {
+      "word": "grasp concepts",
+      "type": "collocation",
+      "ipa": "/ɡrɑːsp ˈkɒnsepts/",
+      "def_en": "to understand ideas fully",
+      "def_vi": "nắm bắt khái niệm",
+      "example": "Visual aids help students grasp concepts.",
+      "synonyms": ["understand ideas"],
+      "band": 7.5
+    },
+    {
+      "word": "grueling exams",
+      "type": "collocation",
+      "ipa": "/ˈɡruːəlɪŋ ɪɡˈzæmz/",
+      "def_en": "extremely demanding tests",
+      "def_vi": "kỳ thi mệt mỏi",
+      "example": "Medical students face grueling exams.",
+      "synonyms": ["exhausting exams"],
+      "band": 8.0
+    },
+    {
+      "word": "hands-on experience",
+      "type": "collocation",
+      "ipa": "/ˌhændz ˈɒn ɪkˈspɪəriəns/",
+      "def_en": "practical, direct involvement",
+      "def_vi": "kinh nghiệm thực tế",
+      "example": "Internships provide hands-on experience.",
+      "synonyms": ["practical experience"],
+      "band": 7.0
+    },
+    {
+      "word": "higher education",
+      "type": "collocation",
+      "ipa": "/ˈhaɪər ˌedʒuˈkeɪʃn/",
+      "def_en": "education beyond secondary school",
+      "def_vi": "giáo dục đại học",
+      "example": "Access to higher education is expanding.",
+      "synonyms": ["tertiary education"],
+      "band": 7.0
+    },
+    {
+      "word": "holistic approach",
+      "type": "collocation",
+      "ipa": "/həʊˈlɪstɪk əˈprəʊtʃ/",
+      "def_en": "considering the whole rather than parts",
+      "def_vi": "cách tiếp cận tổng thể",
+      "example": "The school takes a holistic approach to education.",
+      "synonyms": ["comprehensive approach"],
+      "band": 7.5
+    },
+    {
+      "word": "homework load",
+      "type": "collocation",
+      "ipa": "/ˈhəʊmwɜːk ləʊd/",
+      "def_en": "amount of homework given",
+      "def_vi": "khối lượng bài tập về nhà",
+      "example": "Excessive homework load causes stress.",
+      "synonyms": ["homework burden"],
+      "band": 7.0
+    },
+    {
+      "word": "humanities",
+      "type": "noun",
+      "ipa": "/hjuːˈmænətiz/",
+      "def_en": "academic disciplines studying human culture",
+      "def_vi": "ngành nhân văn",
+      "example": "She specializes in the humanities.",
+      "synonyms": ["liberal arts"],
+      "band": 7.5
+    },
+    {
+      "word": "ill-equipped",
+      "type": "adj",
+      "ipa": "/ˌɪl ɪˈkwɪpt/",
+      "def_en": "lacking necessary skills or resources",
+      "def_vi": "không đủ trang bị",
+      "example": "Many graduates are ill-equipped for work.",
+      "synonyms": ["unprepared"],
+      "band": 7.5
+    },
+    {
+      "word": "illiteracy",
+      "type": "noun",
+      "ipa": "/ɪˈlɪtərəsi/",
+      "def_en": "inability to read or write",
+      "def_vi": "mù chữ",
+      "example": "Programs combat adult illiteracy.",
+      "synonyms": ["inability to read"],
+      "band": 7.0
+    },
+    {
+      "word": "immerse oneself",
+      "type": "collocation",
+      "ipa": "/ɪˈmɜːs wʌnˈself/",
+      "def_en": "to involve deeply in something",
+      "def_vi": "đắm mình",
+      "example": "Students immerse themselves in the language.",
+      "synonyms": ["become absorbed"],
+      "band": 7.5
+    },
+    {
+      "word": "impart knowledge",
+      "type": "collocation",
+      "ipa": "/ɪmˈpɑːt ˈnɒlɪdʒ/",
+      "def_en": "to pass on information",
+      "def_vi": "truyền đạt kiến thức",
+      "example": "Teachers impart knowledge to students.",
+      "synonyms": ["transmit knowledge"],
+      "band": 7.5
+    },
+    {
+      "word": "in-depth analysis",
+      "type": "collocation",
+      "ipa": "/ˌɪn ˈdepθ əˈnæləsɪs/",
+      "def_en": "thorough examination",
+      "def_vi": "phân tích sâu",
+      "example": "The essay requires in-depth analysis.",
+      "synonyms": ["thorough analysis"],
+      "band": 7.5
+    },
+    {
+      "word": "inculcate",
+      "type": "verb",
+      "ipa": "/ˈɪnkʌlkeɪt/",
+      "def_en": "to instill ideas through repeated teaching",
+      "def_vi": "truyền thụ",
+      "example": "Schools inculcate values in students.",
+      "synonyms": ["instill", "implant"],
+      "band": 8.5
+    },
+    {
+      "word": "inductive reasoning",
+      "type": "collocation",
+      "ipa": "/ɪnˈdʌktɪv ˈriːznɪŋ/",
+      "def_en": "drawing general conclusions from specific cases",
+      "def_vi": "lập luận quy nạp",
+      "example": "Science relies on inductive reasoning.",
+      "synonyms": ["empirical reasoning"],
+      "band": 8.0
+    },
+    {
+      "word": "innate ability",
+      "type": "collocation",
+      "ipa": "/ɪˈneɪt əˈbɪləti/",
+      "def_en": "natural, inborn capability",
+      "def_vi": "khả năng bẩm sinh",
+      "example": "Some children show innate ability in music.",
+      "synonyms": ["natural talent"],
+      "band": 7.5
+    },
+    {
+      "word": "instill values",
+      "type": "collocation",
+      "ipa": "/ɪnˈstɪl ˈvæljuːz/",
+      "def_en": "to gradually establish values in the mind",
+      "def_vi": "khắc sâu giá trị",
+      "example": "Parents instill values in their children.",
+      "synonyms": ["impart values"],
+      "band": 7.5
+    },
+    {
+      "word": "interactive learning",
+      "type": "collocation",
+      "ipa": "/ˌɪntərˈæktɪv ˈlɜːnɪŋ/",
+      "def_en": "learning involving active participation",
+      "def_vi": "học tương tác",
+      "example": "Interactive learning improves engagement.",
+      "synonyms": ["participatory learning"],
+      "band": 7.0
+    },
+    {
+      "word": "interdisciplinary",
+      "type": "adj",
+      "ipa": "/ˌɪntədɪsəˈplɪnəri/",
+      "def_en": "involving multiple academic fields",
+      "def_vi": "liên ngành",
+      "example": "Cognitive science is interdisciplinary.",
+      "synonyms": ["cross-disciplinary"],
+      "band": 8.0
+    },
+    {
+      "word": "intuitive grasp",
+      "type": "collocation",
+      "ipa": "/ɪnˈtjuːɪtɪv ɡrɑːsp/",
+      "def_en": "natural understanding without reasoning",
+      "def_vi": "hiểu trực giác",
+      "example": "She has an intuitive grasp of mathematics.",
+      "synonyms": ["instinctive understanding"],
+      "band": 8.0
+    },
+    {
+      "word": "kindergarten",
+      "type": "noun",
+      "ipa": "/ˈkɪndəɡɑːtn/",
+      "def_en": "school for young children",
+      "def_vi": "trường mẫu giáo",
+      "example": "Kindergarten teaches social skills.",
+      "synonyms": ["preschool", "nursery school"],
+      "band": 7.0
+    },
+    {
+      "word": "knowledge acquisition",
+      "type": "collocation",
+      "ipa": "/ˈnɒlɪdʒ ˌækwɪˈzɪʃn/",
+      "def_en": "the process of gaining knowledge",
+      "def_vi": "tiếp thu kiến thức",
+      "example": "Reading aids knowledge acquisition.",
+      "synonyms": ["learning"],
+      "band": 7.5
+    },
+    {
+      "word": "knowledge gap",
+      "type": "collocation",
+      "ipa": "/ˈnɒlɪdʒ ɡæp/",
+      "def_en": "missing area of understanding",
+      "def_vi": "khoảng trống kiến thức",
+      "example": "The course addresses a knowledge gap.",
+      "synonyms": ["learning gap"],
+      "band": 7.5
+    },
+    {
+      "word": "language acquisition",
+      "type": "collocation",
+      "ipa": "/ˈlæŋɡwɪdʒ ˌækwɪˈzɪʃn/",
+      "def_en": "the process of learning a language",
+      "def_vi": "tiếp thu ngôn ngữ",
+      "example": "Early exposure aids language acquisition.",
+      "synonyms": ["language learning"],
+      "band": 7.5
+    },
+    {
+      "word": "lay the foundation",
+      "type": "collocation",
+      "ipa": "/leɪ ðə faʊnˈdeɪʃn/",
+      "def_en": "to provide a basis for something",
+      "def_vi": "đặt nền móng",
+      "example": "Primary school lays the foundation for learning.",
+      "synonyms": ["establish a base"],
+      "band": 7.5
+    },
+    {
+      "word": "learning curve",
+      "type": "collocation",
+      "ipa": "/ˈlɜːnɪŋ kɜːv/",
+      "def_en": "rate of progress in learning",
+      "def_vi": "đường cong học tập",
+      "example": "There is a steep learning curve.",
+      "synonyms": ["progress rate"],
+      "band": 7.5
+    },
+    {
+      "word": "learning disability",
+      "type": "collocation",
+      "ipa": "/ˈlɜːnɪŋ ˌdɪsəˈbɪləti/",
+      "def_en": "condition affecting learning ability",
+      "def_vi": "khuyết tật học tập",
+      "example": "Schools support students with learning disabilities.",
+      "synonyms": ["learning difficulty"],
+      "band": 7.0
+    },
+    {
+      "word": "lecture hall",
+      "type": "collocation",
+      "ipa": "/ˈlektʃər hɔːl/",
+      "def_en": "large room for lectures",
+      "def_vi": "giảng đường",
+      "example": "The lecture hall seats 300 students.",
+      "synonyms": ["lecture theatre"],
+      "band": 7.0
+    },
+    {
+      "word": "lifelong learning",
+      "type": "collocation",
+      "ipa": "/ˈlaɪflɒŋ ˈlɜːnɪŋ/",
+      "def_en": "ongoing pursuit of knowledge",
+      "def_vi": "học suốt đời",
+      "example": "Lifelong learning is essential in modern careers.",
+      "synonyms": ["continuous learning"],
+      "band": 7.0
+    },
+    {
+      "word": "linguistic competence",
+      "type": "collocation",
+      "ipa": "/lɪŋˈɡwɪstɪk ˈkɒmpɪtəns/",
+      "def_en": "knowledge of a language's rules",
+      "def_vi": "năng lực ngôn ngữ",
+      "example": "Grammar develops linguistic competence.",
+      "synonyms": ["language proficiency"],
+      "band": 8.0
+    },
+    {
+      "word": "literacy rate",
+      "type": "collocation",
+      "ipa": "/ˈlɪtərəsi reɪt/",
+      "def_en": "percentage of people who can read",
+      "def_vi": "tỷ lệ biết chữ",
+      "example": "The literacy rate has improved significantly.",
+      "synonyms": ["reading rate"],
+      "band": 7.0
+    },
+    {
+      "word": "long-term retention",
+      "type": "collocation",
+      "ipa": "/ˌlɒŋ ˈtɜːm rɪˈtenʃn/",
+      "def_en": "remembering over extended time",
+      "def_vi": "ghi nhớ lâu dài",
+      "example": "Spaced practice aids long-term retention.",
+      "synonyms": ["lasting memory"],
+      "band": 7.5
+    },
+    {
+      "word": "magna cum laude",
+      "type": "phrase",
+      "ipa": "/ˌmæɡnə kʊm ˈlaʊdeɪ/",
+      "def_en": "with great honor (Latin academic distinction)",
+      "def_vi": "loại giỏi",
+      "example": "She graduated magna cum laude.",
+      "synonyms": ["with high distinction"],
+      "band": 8.5
+    },
+    {
+      "word": "mainstream education",
+      "type": "collocation",
+      "ipa": "/ˈmeɪnstriːm ˌedʒuˈkeɪʃn/",
+      "def_en": "regular education system",
+      "def_vi": "giáo dục chính quy",
+      "example": "Inclusion brings disabled children into mainstream education.",
+      "synonyms": ["regular schooling"],
+      "band": 7.5
+    },
+    {
+      "word": "master a subject",
+      "type": "collocation",
+      "ipa": "/ˈmɑːstər ə ˈsʌbdʒɪkt/",
+      "def_en": "to become skilled in a discipline",
+      "def_vi": "thành thạo môn học",
+      "example": "It takes years to master a subject.",
+      "synonyms": ["become expert in"],
+      "band": 7.0
+    },
+    {
+      "word": "memorization",
+      "type": "noun",
+      "ipa": "/ˌmeməraɪˈzeɪʃn/",
+      "def_en": "learning by heart",
+      "def_vi": "ghi nhớ máy móc",
+      "example": "Memorization alone is insufficient.",
+      "synonyms": ["rote learning"],
+      "band": 7.0
+    },
+    {
+      "word": "mentor",
+      "type": "noun",
+      "ipa": "/ˈmentɔːr/",
+      "def_en": "an experienced advisor",
+      "def_vi": "người cố vấn",
+      "example": "Her mentor guided her through graduate school.",
+      "synonyms": ["advisor", "guide"],
+      "band": 7.0
+    },
+    {
+      "word": "meritocracy",
+      "type": "noun",
+      "ipa": "/ˌmerɪˈtɒkrəsi/",
+      "def_en": "system where success is based on ability",
+      "def_vi": "chế độ trọng dụng nhân tài",
+      "example": "Universities aim to be a meritocracy.",
+      "synonyms": ["talent-based system"],
+      "band": 8.0
+    },
+    {
+      "word": "metacognition",
+      "type": "noun",
+      "ipa": "/ˌmetəkɒɡˈnɪʃn/",
+      "def_en": "awareness of one's own thinking",
+      "def_vi": "siêu nhận thức",
+      "example": "Metacognition improves learning efficiency.",
+      "synonyms": ["self-awareness"],
+      "band": 8.5
+    },
+    {
+      "word": "mode of instruction",
+      "type": "collocation",
+      "ipa": "/məʊd əv ɪnˈstrʌkʃn/",
+      "def_en": "method of teaching",
+      "def_vi": "phương thức giảng dạy",
+      "example": "Online learning is a new mode of instruction.",
+      "synonyms": ["teaching method"],
+      "band": 7.5
+    },
+    {
+      "word": "motivation",
+      "type": "noun",
+      "ipa": "/ˌməʊtɪˈveɪʃn/",
+      "def_en": "reason for action; drive",
+      "def_vi": "động lực",
+      "example": "Intrinsic motivation drives learning.",
+      "synonyms": ["drive", "incentive"],
+      "band": 7.0
+    },
+    {
+      "word": "multifaceted",
+      "type": "adj",
+      "ipa": "/ˌmʌltiˈfæsɪtɪd/",
+      "def_en": "having many sides or aspects",
+      "def_vi": "đa diện",
+      "example": "Education is a multifaceted process.",
+      "synonyms": ["multidimensional", "complex"],
+      "band": 8.0
+    },
+    {
+      "word": "national curriculum",
+      "type": "collocation",
+      "ipa": "/ˈnæʃnəl kəˈrɪkjələm/",
+      "def_en": "government-mandated study program",
+      "def_vi": "chương trình quốc gia",
+      "example": "The national curriculum was reformed.",
+      "synonyms": ["state curriculum"],
+      "band": 7.0
+    },
+    {
+      "word": "nurture",
+      "type": "verb",
+      "ipa": "/ˈnɜːtʃər/",
+      "def_en": "to help someone develop",
+      "def_vi": "nuôi dưỡng",
+      "example": "Good teachers nurture talent.",
+      "synonyms": ["foster", "cultivate"],
+      "band": 7.5
+    },
+    {
+      "word": "objective assessment",
+      "type": "collocation",
+      "ipa": "/əbˈdʒektɪv əˈsesmənt/",
+      "def_en": "unbiased evaluation",
+      "def_vi": "đánh giá khách quan",
+      "example": "Standardized tests aim for objective assessment.",
+      "synonyms": ["impartial evaluation"],
+      "band": 7.5
+    },
+    {
+      "word": "online platform",
+      "type": "collocation",
+      "ipa": "/ˌɒnˈlaɪn ˈplætfɔːm/",
+      "def_en": "internet-based system for learning",
+      "def_vi": "nền tảng trực tuyến",
+      "example": "The course uses an online platform.",
+      "synonyms": ["digital platform"],
+      "band": 7.0
+    },
+    {
+      "word": "oral examination",
+      "type": "collocation",
+      "ipa": "/ˈɔːrəl ɪɡˌzæmɪˈneɪʃn/",
+      "def_en": "spoken test",
+      "def_vi": "thi vấn đáp",
+      "example": "PhD students undergo an oral examination.",
+      "synonyms": ["viva", "spoken exam"],
+      "band": 7.0
+    },
+    {
+      "word": "overhaul the system",
+      "type": "collocation",
+      "ipa": "/ˈəʊvəhɔːl ðə ˈsɪstəm/",
+      "def_en": "to thoroughly reform",
+      "def_vi": "đại tu hệ thống",
+      "example": "Reformers want to overhaul the system.",
+      "synonyms": ["completely reform"],
+      "band": 8.0
+    },
+    {
+      "word": "parental involvement",
+      "type": "collocation",
+      "ipa": "/pəˈrentl ɪnˈvɒlvmənt/",
+      "def_en": "participation of parents in education",
+      "def_vi": "sự tham gia của phụ huynh",
+      "example": "Parental involvement boosts performance.",
+      "synonyms": ["family engagement"],
+      "band": 7.5
+    },
+    {
+      "word": "pedagogical approach",
+      "type": "collocation",
+      "ipa": "/ˌpedəˈɡɒdʒɪkl əˈprəʊtʃ/",
+      "def_en": "method of teaching",
+      "def_vi": "phương pháp sư phạm",
+      "example": "The pedagogical approach is innovative.",
+      "synonyms": ["teaching method"],
+      "band": 8.0
+    },
+    {
+      "word": "pedagogy",
+      "type": "noun",
+      "ipa": "/ˈpedəɡɒdʒi/",
+      "def_en": "the method and practice of teaching",
+      "def_vi": "sư phạm",
+      "example": "Modern pedagogy emphasizes engagement.",
+      "synonyms": ["teaching method", "instruction"],
+      "band": 8.0
+    },
+    {
+      "word": "peer pressure",
+      "type": "collocation",
+      "ipa": "/pɪər ˈpreʃər/",
+      "def_en": "influence from one's social group",
+      "def_vi": "áp lực bạn bè",
+      "example": "Peer pressure affects teenage choices.",
+      "synonyms": ["social pressure"],
+      "band": 7.0
+    },
+    {
+      "word": "peer review",
+      "type": "collocation",
+      "ipa": "/pɪər rɪˈvjuː/",
+      "def_en": "evaluation by others in same field",
+      "def_vi": "phản biện đồng nghiệp",
+      "example": "Articles undergo peer review before publication.",
+      "synonyms": ["academic review"],
+      "band": 7.5
+    },
+    {
+      "word": "perpetuate inequality",
+      "type": "collocation",
+      "ipa": "/pəˈpetʃueɪt ˌɪnɪˈkwɒləti/",
+      "def_en": "to make inequality continue",
+      "def_vi": "duy trì bất bình đẳng",
+      "example": "Tuition fees may perpetuate inequality.",
+      "synonyms": ["maintain inequality"],
+      "band": 8.5
+    },
+    {
+      "word": "personalized learning",
+      "type": "collocation",
+      "ipa": "/ˈpɜːsənəlaɪzd ˈlɜːnɪŋ/",
+      "def_en": "instruction tailored to the individual",
+      "def_vi": "học cá nhân hóa",
+      "example": "Technology enables personalized learning.",
+      "synonyms": ["individualized instruction"],
+      "band": 7.5
+    },
+    {
+      "word": "PhD candidate",
+      "type": "collocation",
+      "ipa": "/ˌpiːeɪtʃˈdiː ˈkændɪdət/",
+      "def_en": "student pursuing a doctorate",
+      "def_vi": "nghiên cứu sinh tiến sĩ",
+      "example": "She is a PhD candidate in economics.",
+      "synonyms": ["doctoral student"],
+      "band": 7.0
+    },
+    {
+      "word": "philosophy of education",
+      "type": "collocation",
+      "ipa": "/fəˈlɒsəfi əv ˌedʒuˈkeɪʃn/",
+      "def_en": "theory of teaching's purpose",
+      "def_vi": "triết lý giáo dục",
+      "example": "Each school has a philosophy of education.",
+      "synonyms": ["educational theory"],
+      "band": 7.5
+    },
+    {
+      "word": "place emphasis on",
+      "type": "collocation",
+      "ipa": "/pleɪs ˈemfəsɪs ɒn/",
+      "def_en": "to give importance to",
+      "def_vi": "chú trọng vào",
+      "example": "Schools place emphasis on basic skills.",
+      "synonyms": ["emphasize", "stress"],
+      "band": 7.5
+    },
+    {
+      "word": "plagiarism",
+      "type": "noun",
+      "ipa": "/ˈpleɪdʒərɪzəm/",
+      "def_en": "copying others' work",
+      "def_vi": "đạo văn",
+      "example": "Plagiarism has serious consequences.",
+      "synonyms": ["copying", "intellectual theft"],
+      "band": 7.5
+    },
+    {
+      "word": "post-graduate studies",
+      "type": "collocation",
+      "ipa": "/ˌpəʊst ˈɡrædʒuət ˈstʌdiz/",
+      "def_en": "studies after first degree",
+      "def_vi": "học sau đại học",
+      "example": "She is pursuing post-graduate studies.",
+      "synonyms": ["graduate studies"],
+      "band": 7.0
+    },
+    {
+      "word": "practical application",
+      "type": "collocation",
+      "ipa": "/ˈpræktɪkl ˌæplɪˈkeɪʃn/",
+      "def_en": "real-world use",
+      "def_vi": "ứng dụng thực tế",
+      "example": "Theory must have practical application.",
+      "synonyms": ["real-world use"],
+      "band": 7.0
+    },
+    {
+      "word": "preparatory school",
+      "type": "collocation",
+      "ipa": "/prɪˈpærətri skuːl/",
+      "def_en": "school preparing students for further education",
+      "def_vi": "trường dự bị",
+      "example": "He attended a preparatory school.",
+      "synonyms": ["prep school"],
+      "band": 7.5
+    },
+    {
+      "word": "prerequisite",
+      "type": "noun",
+      "ipa": "/ˌpriːˈrekwəzɪt/",
+      "def_en": "something required before another can be done",
+      "def_vi": "điều kiện tiên quyết",
+      "example": "Calculus is a prerequisite for the course.",
+      "synonyms": ["requirement", "precondition"],
+      "band": 7.5
+    },
+    {
+      "word": "primary education",
+      "type": "collocation",
+      "ipa": "/ˈpraɪməri ˌedʒuˈkeɪʃn/",
+      "def_en": "first stage of formal schooling",
+      "def_vi": "giáo dục tiểu học",
+      "example": "Primary education is universal in many countries.",
+      "synonyms": ["elementary education"],
+      "band": 7.0
+    },
+    {
+      "word": "private tuition",
+      "type": "collocation",
+      "ipa": "/ˈpraɪvət tjuˈɪʃn/",
+      "def_en": "individual paid teaching",
+      "def_vi": "học thêm riêng",
+      "example": "Many parents pay for private tuition.",
+      "synonyms": ["private tutoring"],
+      "band": 7.0
+    },
+    {
+      "word": "problem-solving skills",
+      "type": "collocation",
+      "ipa": "/ˈprɒbləm ˈsɒlvɪŋ skɪlz/",
+      "def_en": "ability to find solutions",
+      "def_vi": "kỹ năng giải quyết vấn đề",
+      "example": "Engineering develops problem-solving skills.",
+      "synonyms": ["analytical skills"],
+      "band": 7.0
+    },
+    {
+      "word": "proficiency level",
+      "type": "collocation",
+      "ipa": "/prəˈfɪʃnsi ˈlevl/",
+      "def_en": "degree of skill",
+      "def_vi": "trình độ thành thạo",
+      "example": "Tests determine proficiency level.",
+      "synonyms": ["skill level"],
+      "band": 7.5
+    },
+    {
+      "word": "profound impact",
+      "type": "collocation",
+      "ipa": "/prəˈfaʊnd ˈɪmpækt/",
+      "def_en": "deep, significant effect",
+      "def_vi": "tác động sâu sắc",
+      "example": "Mentors have a profound impact on students.",
+      "synonyms": ["deep effect"],
+      "band": 7.5
+    },
+    {
+      "word": "prolific",
+      "type": "adj",
+      "ipa": "/prəˈlɪfɪk/",
+      "def_en": "producing many works",
+      "def_vi": "đa sản",
+      "example": "He is a prolific author of textbooks.",
+      "synonyms": ["productive", "fertile"],
+      "band": 8.0
+    },
+    {
+      "word": "prominent scholar",
+      "type": "collocation",
+      "ipa": "/ˈprɒmɪnənt ˈskɒlər/",
+      "def_en": "well-known academic",
+      "def_vi": "học giả nổi tiếng",
+      "example": "She is a prominent scholar in linguistics.",
+      "synonyms": ["leading academic"],
+      "band": 7.5
+    },
+    {
+      "word": "promote learning",
+      "type": "collocation",
+      "ipa": "/prəˈməʊt ˈlɜːnɪŋ/",
+      "def_en": "to encourage learning",
+      "def_vi": "thúc đẩy học tập",
+      "example": "Libraries promote learning.",
+      "synonyms": ["encourage learning"],
+      "band": 7.0
+    },
+    {
+      "word": "pursue a career",
+      "type": "collocation",
+      "ipa": "/pəˈsjuː ə kəˈrɪər/",
+      "def_en": "to follow a profession",
+      "def_vi": "theo đuổi sự nghiệp",
+      "example": "She pursues a career in medicine.",
+      "synonyms": ["follow a profession"],
+      "band": 7.0
+    },
+    {
+      "word": "pursue knowledge",
+      "type": "collocation",
+      "ipa": "/pəˈsjuː ˈnɒlɪdʒ/",
+      "def_en": "to seek learning actively",
+      "def_vi": "theo đuổi tri thức",
+      "example": "Scholars pursue knowledge for its own sake.",
+      "synonyms": ["seek learning"],
+      "band": 7.5
+    },
+    {
+      "word": "qualified teacher",
+      "type": "collocation",
+      "ipa": "/ˈkwɒlɪfaɪd ˈtiːtʃər/",
+      "def_en": "trained and certified instructor",
+      "def_vi": "giáo viên đủ chuẩn",
+      "example": "Schools need more qualified teachers.",
+      "synonyms": ["certified teacher"],
+      "band": 7.0
+    },
+    {
+      "word": "quintessential",
+      "type": "adj",
+      "ipa": "/ˌkwɪntɪˈsenʃl/",
+      "def_en": "representing the perfect example",
+      "def_vi": "điển hình",
+      "example": "Oxford is the quintessential English university.",
+      "synonyms": ["typical", "archetypal"],
+      "band": 8.5
+    },
+    {
+      "word": "reading comprehension",
+      "type": "collocation",
+      "ipa": "/ˈriːdɪŋ ˌkɒmprɪˈhenʃn/",
+      "def_en": "understanding of written text",
+      "def_vi": "hiểu đọc",
+      "example": "Reading comprehension is tested in IELTS.",
+      "synonyms": ["text understanding"],
+      "band": 7.0
+    },
+    {
+      "word": "reciprocal teaching",
+      "type": "collocation",
+      "ipa": "/rɪˈsɪprəkl ˈtiːtʃɪŋ/",
+      "def_en": "students teach each other",
+      "def_vi": "dạy lẫn nhau",
+      "example": "Reciprocal teaching builds skills.",
+      "synonyms": ["peer teaching"],
+      "band": 8.0
+    },
+    {
+      "word": "reform the curriculum",
+      "type": "collocation",
+      "ipa": "/rɪˈfɔːm ðə kəˈrɪkjələm/",
+      "def_en": "to change the program of study",
+      "def_vi": "cải cách chương trình",
+      "example": "Authorities plan to reform the curriculum.",
+      "synonyms": ["update curriculum"],
+      "band": 7.5
+    },
+    {
+      "word": "remedial classes",
+      "type": "collocation",
+      "ipa": "/rɪˈmiːdiəl ˈklɑːsɪz/",
+      "def_en": "classes for struggling students",
+      "def_vi": "lớp phụ đạo",
+      "example": "Remedial classes help struggling students.",
+      "synonyms": ["catch-up classes"],
+      "band": 7.5
+    },
+    {
+      "word": "remote learning",
+      "type": "collocation",
+      "ipa": "/rɪˈməʊt ˈlɜːnɪŋ/",
+      "def_en": "education conducted at a distance",
+      "def_vi": "học từ xa",
+      "example": "Remote learning became common during the pandemic.",
+      "synonyms": ["distance learning"],
+      "band": 7.0
+    },
+    {
+      "word": "renowned institution",
+      "type": "collocation",
+      "ipa": "/rɪˈnaʊnd ˌɪnstɪˈtjuːʃn/",
+      "def_en": "famous and respected school",
+      "def_vi": "cơ sở danh tiếng",
+      "example": "Harvard is a renowned institution.",
+      "synonyms": ["prestigious institution"],
+      "band": 7.5
+    },
+    {
+      "word": "research methodology",
+      "type": "collocation",
+      "ipa": "/rɪˈsɜːtʃ ˌmeθəˈdɒlədʒi/",
+      "def_en": "systematic approach to research",
+      "def_vi": "phương pháp nghiên cứu",
+      "example": "She teaches research methodology.",
+      "synonyms": ["research method"],
+      "band": 7.5
+    },
+    {
+      "word": "rigorous standards",
+      "type": "collocation",
+      "ipa": "/ˈrɪɡərəs ˈstændədz/",
+      "def_en": "strict requirements",
+      "def_vi": "tiêu chuẩn nghiêm ngặt",
+      "example": "The university has rigorous standards.",
+      "synonyms": ["strict standards"],
+      "band": 7.5
+    },
+    {
+      "word": "rote learning",
+      "type": "collocation",
+      "ipa": "/rəʊt ˈlɜːnɪŋ/",
+      "def_en": "memorization without understanding",
+      "def_vi": "học vẹt",
+      "example": "Rote learning has limitations.",
+      "synonyms": ["memorization"],
+      "band": 7.5
+    },
+    {
+      "word": "scaffolding",
+      "type": "noun",
+      "ipa": "/ˈskæfəldɪŋ/",
+      "def_en": "structured support during learning",
+      "def_vi": "hỗ trợ học tập có cấu trúc",
+      "example": "Scaffolding helps students master tasks.",
+      "synonyms": ["learning support"],
+      "band": 8.0
+    },
+    {
+      "word": "scholarly",
+      "type": "adj",
+      "ipa": "/ˈskɒləli/",
+      "def_en": "relating to academic study",
+      "def_vi": "thuộc về học thuật",
+      "example": "She has a scholarly approach to literature.",
+      "synonyms": ["academic", "learned"],
+      "band": 7.5
+    },
+    {
+      "word": "scholarship",
+      "type": "noun",
+      "ipa": "/ˈskɒləʃɪp/",
+      "def_en": "financial award for study",
+      "def_vi": "học bổng",
+      "example": "She won a scholarship to MIT.",
+      "synonyms": ["grant", "bursary"],
+      "band": 7.0
+    },
+    {
+      "word": "secondary education",
+      "type": "collocation",
+      "ipa": "/ˈsekəndri ˌedʒuˈkeɪʃn/",
+      "def_en": "education between primary and tertiary",
+      "def_vi": "giáo dục trung học",
+      "example": "Secondary education prepares students for university.",
+      "synonyms": ["high school"],
+      "band": 7.0
+    },
+    {
+      "word": "self-directed learning",
+      "type": "collocation",
+      "ipa": "/ˌself daɪˈrektɪd ˈlɜːnɪŋ/",
+      "def_en": "learning managed by oneself",
+      "def_vi": "học tự định hướng",
+      "example": "Adults often prefer self-directed learning.",
+      "synonyms": ["autonomous learning"],
+      "band": 7.5
+    },
+    {
+      "word": "seminar",
+      "type": "noun",
+      "ipa": "/ˈsemɪnɑːr/",
+      "def_en": "small group discussion class",
+      "def_vi": "buổi seminar",
+      "example": "Weekly seminars complement lectures.",
+      "synonyms": ["discussion class"],
+      "band": 7.0
+    },
+    {
+      "word": "shape character",
+      "type": "collocation",
+      "ipa": "/ʃeɪp ˈkærəktər/",
+      "def_en": "to influence personality formation",
+      "def_vi": "hình thành nhân cách",
+      "example": "Schools shape character.",
+      "synonyms": ["form personality"],
+      "band": 7.5
+    },
+    {
+      "word": "single-sex education",
+      "type": "collocation",
+      "ipa": "/ˌsɪŋɡl ˈseks ˌedʒuˈkeɪʃn/",
+      "def_en": "schooling separated by gender",
+      "def_vi": "giáo dục đơn giới",
+      "example": "Single-sex education has both supporters and critics.",
+      "synonyms": ["gender-segregated education"],
+      "band": 7.5
+    },
+    {
+      "word": "social mobility",
+      "type": "collocation",
+      "ipa": "/ˈsəʊʃl məʊˈbɪləti/",
+      "def_en": "movement between social classes",
+      "def_vi": "dịch chuyển xã hội",
+      "example": "Education enables social mobility.",
+      "synonyms": ["upward mobility"],
+      "band": 7.5
+    },
+    {
+      "word": "specialized knowledge",
+      "type": "collocation",
+      "ipa": "/ˈspeʃəlaɪzd ˈnɒlɪdʒ/",
+      "def_en": "expertise in a specific area",
+      "def_vi": "kiến thức chuyên môn",
+      "example": "The job requires specialized knowledge.",
+      "synonyms": ["expertise"],
+      "band": 7.0
+    },
+    {
+      "word": "spoon-feeding",
+      "type": "noun",
+      "ipa": "/ˈspuːn fiːdɪŋ/",
+      "def_en": "providing too much help to learners",
+      "def_vi": "dạy nhồi",
+      "example": "Spoon-feeding hinders critical thinking.",
+      "synonyms": ["overinstruction"],
+      "band": 8.0
+    },
+    {
+      "word": "standardized testing",
+      "type": "collocation",
+      "ipa": "/ˈstændədaɪzd ˈtestɪŋ/",
+      "def_en": "uniform assessments",
+      "def_vi": "thi chuẩn hóa",
+      "example": "Standardized testing is controversial.",
+      "synonyms": ["uniform assessment"],
+      "band": 7.5
+    },
+    {
+      "word": "state-funded school",
+      "type": "collocation",
+      "ipa": "/ˌsteɪt ˈfʌndɪd skuːl/",
+      "def_en": "school financed by government",
+      "def_vi": "trường công lập",
+      "example": "State-funded schools provide free education.",
+      "synonyms": ["public school"],
+      "band": 7.5
+    },
+    {
+      "word": "stem fields",
+      "type": "collocation",
+      "ipa": "/stem fiːldz/",
+      "def_en": "science, technology, engineering, math",
+      "def_vi": "ngành khoa học công nghệ",
+      "example": "Women are underrepresented in STEM fields.",
+      "synonyms": ["science fields"],
+      "band": 7.5
+    },
+    {
+      "word": "strenuous study",
+      "type": "collocation",
+      "ipa": "/ˈstrenjuəs ˈstʌdi/",
+      "def_en": "demanding academic work",
+      "def_vi": "học hành căng thẳng",
+      "example": "Medical school requires strenuous study.",
+      "synonyms": ["intensive study"],
+      "band": 8.0
+    },
+    {
+      "word": "student-centered",
+      "type": "adj",
+      "ipa": "/ˈstjuːdnt ˈsentəd/",
+      "def_en": "focused on the learner",
+      "def_vi": "lấy người học làm trung tâm",
+      "example": "Modern teaching is student-centered.",
+      "synonyms": ["learner-focused"],
+      "band": 7.5
+    },
+    {
+      "word": "summative assessment",
+      "type": "collocation",
+      "ipa": "/ˈsʌmətɪv əˈsesmənt/",
+      "def_en": "final evaluation at end of course",
+      "def_vi": "đánh giá tổng kết",
+      "example": "Final exams are a summative assessment.",
+      "synonyms": ["final evaluation"],
+      "band": 8.0
+    },
+    {
+      "word": "syllabus",
+      "type": "noun",
+      "ipa": "/ˈsɪləbəs/",
+      "def_en": "outline of a course's topics",
+      "def_vi": "đề cương môn học",
+      "example": "The syllabus is available online.",
+      "synonyms": ["course outline"],
+      "band": 7.0
+    },
+    {
+      "word": "tackle a topic",
+      "type": "collocation",
+      "ipa": "/ˈtækl ə ˈtɒpɪk/",
+      "def_en": "to address a subject",
+      "def_vi": "giải quyết chủ đề",
+      "example": "The course tackles a wide range of topics.",
+      "synonyms": ["address a topic"],
+      "band": 7.0
+    },
+    {
+      "word": "tailored curriculum",
+      "type": "collocation",
+      "ipa": "/ˈteɪləd kəˈrɪkjələm/",
+      "def_en": "customized program of study",
+      "def_vi": "chương trình tùy chỉnh",
+      "example": "International schools offer tailored curriculum.",
+      "synonyms": ["customized curriculum"],
+      "band": 7.5
+    },
+    {
+      "word": "teacher-student ratio",
+      "type": "collocation",
+      "ipa": "/ˈtiːtʃər ˈstjuːdnt ˈreɪʃiəʊ/",
+      "def_en": "number of students per teacher",
+      "def_vi": "tỷ lệ giáo viên-học sinh",
+      "example": "A low teacher-student ratio benefits learning.",
+      "synonyms": ["class size ratio"],
+      "band": 7.0
+    },
+    {
+      "word": "tertiary education",
+      "type": "collocation",
+      "ipa": "/ˈtɜːʃəri ˌedʒuˈkeɪʃn/",
+      "def_en": "education at university level",
+      "def_vi": "giáo dục đại học",
+      "example": "Tertiary education has expanded globally.",
+      "synonyms": ["higher education"],
+      "band": 7.5
+    },
+    {
+      "word": "theoretical framework",
+      "type": "collocation",
+      "ipa": "/ˌθɪəˈretɪkl ˈfreɪmwɜːk/",
+      "def_en": "structure of theories underpinning research",
+      "def_vi": "khung lý thuyết",
+      "example": "She developed a theoretical framework.",
+      "synonyms": ["conceptual framework"],
+      "band": 8.0
+    },
+    {
+      "word": "thesis statement",
+      "type": "collocation",
+      "ipa": "/ˈθiːsɪs ˈsteɪtmənt/",
+      "def_en": "main argument of an essay",
+      "def_vi": "luận điểm",
+      "example": "A clear thesis statement is essential.",
+      "synonyms": ["main argument"],
+      "band": 7.0
+    },
+    {
+      "word": "thirst for knowledge",
+      "type": "collocation",
+      "ipa": "/θɜːst fɔː ˈnɒlɪdʒ/",
+      "def_en": "strong desire to learn",
+      "def_vi": "khát khao tri thức",
+      "example": "She has a thirst for knowledge.",
+      "synonyms": ["desire to learn"],
+      "band": 7.5
+    },
+    {
+      "word": "thrive academically",
+      "type": "collocation",
+      "ipa": "/θraɪv ˌækəˈdemɪkli/",
+      "def_en": "to flourish in studies",
+      "def_vi": "phát triển học tập",
+      "example": "Some students thrive academically in small classes.",
+      "synonyms": ["excel academically"],
+      "band": 7.5
+    },
+    {
+      "word": "transferable skills",
+      "type": "collocation",
+      "ipa": "/trænsˈfɜːrəbl skɪlz/",
+      "def_en": "skills useful in many contexts",
+      "def_vi": "kỹ năng linh hoạt",
+      "example": "University develops transferable skills.",
+      "synonyms": ["versatile skills"],
+      "band": 7.5
+    },
+    {
+      "word": "tuition fees",
+      "type": "collocation",
+      "ipa": "/tjuˈɪʃn fiːz/",
+      "def_en": "money paid for instruction",
+      "def_vi": "học phí",
+      "example": "Tuition fees have risen sharply.",
+      "synonyms": ["course fees"],
+      "band": 7.0
+    },
+    {
+      "word": "tutorial",
+      "type": "noun",
+      "ipa": "/tjuˈtɔːriəl/",
+      "def_en": "small group teaching session",
+      "def_vi": "buổi hướng dẫn",
+      "example": "Tutorials supplement lectures.",
+      "synonyms": ["teaching session"],
+      "band": 7.0
+    },
+    {
+      "word": "ubiquitous technology",
+      "type": "collocation",
+      "ipa": "/juːˈbɪkwɪtəs tekˈnɒlədʒi/",
+      "def_en": "technology found everywhere",
+      "def_vi": "công nghệ phổ biến",
+      "example": "Ubiquitous technology transforms classrooms.",
+      "synonyms": ["pervasive technology"],
+      "band": 8.5
+    },
+    {
+      "word": "undergraduate",
+      "type": "noun",
+      "ipa": "/ˌʌndəˈɡrædʒuət/",
+      "def_en": "student studying for first degree",
+      "def_vi": "sinh viên đại học",
+      "example": "Undergraduates form most of the student body.",
+      "synonyms": ["bachelor's student"],
+      "band": 7.0
+    },
+    {
+      "word": "underprivileged students",
+      "type": "collocation",
+      "ipa": "/ˌʌndəˈprɪvəlɪdʒd ˈstjuːdnts/",
+      "def_en": "students lacking advantages",
+      "def_vi": "học sinh thiệt thòi",
+      "example": "Scholarships help underprivileged students.",
+      "synonyms": ["disadvantaged students"],
+      "band": 7.5
+    },
+    {
+      "word": "university ranking",
+      "type": "collocation",
+      "ipa": "/ˌjuːnɪˈvɜːsəti ˈræŋkɪŋ/",
+      "def_en": "comparative position of universities",
+      "def_vi": "xếp hạng đại học",
+      "example": "University rankings influence applications.",
+      "synonyms": ["college ranking"],
+      "band": 7.0
+    },
+    {
+      "word": "uphold standards",
+      "type": "collocation",
+      "ipa": "/ʌpˈhəʊld ˈstændədz/",
+      "def_en": "to maintain quality",
+      "def_vi": "duy trì tiêu chuẩn",
+      "example": "Faculty uphold high academic standards.",
+      "synonyms": ["maintain standards"],
+      "band": 7.5
+    },
+    {
+      "word": "valedictorian",
+      "type": "noun",
+      "ipa": "/ˌvælɪdɪkˈtɔːriən/",
+      "def_en": "top-ranking graduating student",
+      "def_vi": "thủ khoa",
+      "example": "She was the valedictorian of her class.",
+      "synonyms": ["top student"],
+      "band": 8.5
+    },
+    {
+      "word": "vocational training",
+      "type": "collocation",
+      "ipa": "/vəʊˈkeɪʃənl ˈtreɪnɪŋ/",
+      "def_en": "training for a specific job",
+      "def_vi": "đào tạo nghề",
+      "example": "Vocational training prepares people for work.",
+      "synonyms": ["job training"],
+      "band": 7.0
+    },
+    {
+      "word": "well-rounded",
+      "type": "adj",
+      "ipa": "/ˌwel ˈraʊndɪd/",
+      "def_en": "having varied abilities and interests",
+      "def_vi": "toàn diện",
+      "example": "Universities aim for well-rounded graduates.",
+      "synonyms": ["balanced", "versatile"],
+      "band": 7.5
+    },
+    {
+      "word": "wholehearted commitment",
+      "type": "collocation",
+      "ipa": "/ˌhəʊlˈhɑːtɪd kəˈmɪtmənt/",
+      "def_en": "total dedication",
+      "def_vi": "cam kết toàn tâm",
+      "example": "Success requires wholehearted commitment.",
+      "synonyms": ["full dedication"],
+      "band": 8.0
+    },
+    {
+      "word": "widespread illiteracy",
+      "type": "collocation",
+      "ipa": "/ˈwaɪdspred ɪˈlɪtərəsi/",
+      "def_en": "common inability to read",
+      "def_vi": "nạn mù chữ phổ biến",
+      "example": "Widespread illiteracy hinders development.",
+      "synonyms": ["common illiteracy"],
+      "band": 7.5
+    },
+    {
+      "word": "work ethic",
+      "type": "collocation",
+      "ipa": "/wɜːk ˈeθɪk/",
+      "def_en": "principle that hard work is virtuous",
+      "def_vi": "đạo đức làm việc",
+      "example": "She has a strong work ethic.",
+      "synonyms": ["work principles"],
+      "band": 7.0
+    },
+    {
+      "word": "youth empowerment",
+      "type": "collocation",
+      "ipa": "/juːθ ɪmˈpaʊəmənt/",
+      "def_en": "giving young people power and confidence",
+      "def_vi": "trao quyền cho thanh niên",
+      "example": "Education promotes youth empowerment.",
+      "synonyms": ["youth development"],
+      "band": 7.5
+    },
+    {
+      "word": "zest for learning",
+      "type": "collocation",
+      "ipa": "/zest fɔː ˈlɜːnɪŋ/",
+      "def_en": "great enthusiasm for learning",
+      "def_vi": "đam mê học hỏi",
+      "example": "She has a zest for learning new languages.",
+      "synonyms": ["enthusiasm for learning"],
+      "band": 8.0
+    }
+  ]
+}

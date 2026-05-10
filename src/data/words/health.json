@@ -1,0 +1,258 @@
+{
+  "category": "health",
+  "band_range": "7.0-9.0",
+  "description": "Vocabulary for IELTS topics on public health, lifestyle, healthcare systems, disease prevention, and mental wellbeing",
+  "total_entries": 25,
+  "entries": [
+    {
+      "word": "accessible healthcare",
+      "type": "noun",
+      "ipa": "/əkˈsesəbl ˈhelθkeə/",
+      "def_en": "medical services that people can obtain easily and affordably",
+      "def_vi": "dịch vụ y tế dễ tiếp cận",
+      "example": "Accessible healthcare is essential for reducing inequality.",
+      "synonyms": ["available healthcare", "affordable medical care"],
+      "band": 7.0
+    },
+    {
+      "word": "chronic disease",
+      "type": "noun",
+      "ipa": "/ˈkrɒnɪk dɪˈziːz/",
+      "def_en": "a long-lasting illness that usually requires ongoing treatment",
+      "def_vi": "bệnh mãn tính",
+      "example": "Chronic disease places a heavy burden on healthcare systems.",
+      "synonyms": ["long-term illness", "persistent disease"],
+      "band": 7.0
+    },
+    {
+      "word": "curative treatment",
+      "type": "noun",
+      "ipa": "/ˈkjʊərətɪv ˈtriːtmənt/",
+      "def_en": "medical care intended to cure a disease",
+      "def_vi": "điều trị chữa bệnh",
+      "example": "Preventive measures are often cheaper than curative treatment.",
+      "synonyms": ["remedial care", "therapeutic treatment"],
+      "band": 7.5
+    },
+    {
+      "word": "diagnosis",
+      "type": "noun",
+      "ipa": "/ˌdaɪəɡˈnəʊsɪs/",
+      "def_en": "the identification of an illness or problem",
+      "def_vi": "sự chẩn đoán",
+      "example": "Early diagnosis improves the chances of successful treatment.",
+      "synonyms": ["identification", "medical assessment"],
+      "band": 7.0
+    },
+    {
+      "word": "dietary habits",
+      "type": "noun",
+      "ipa": "/ˈdaɪətəri ˈhæbɪts/",
+      "def_en": "regular patterns in what a person eats",
+      "def_vi": "thói quen ăn uống",
+      "example": "Poor dietary habits contribute to obesity and heart disease.",
+      "synonyms": ["eating habits", "nutrition patterns"],
+      "band": 7.0
+    },
+    {
+      "word": "epidemic",
+      "type": "noun",
+      "ipa": "/ˌepɪˈdemɪk/",
+      "def_en": "a rapid spread of a disease among many people in one area",
+      "def_vi": "dịch bệnh",
+      "example": "An epidemic can expose weaknesses in public health infrastructure.",
+      "synonyms": ["outbreak", "disease spread"],
+      "band": 7.5
+    },
+    {
+      "word": "health disparity",
+      "type": "noun",
+      "ipa": "/helθ dɪˈspærəti/",
+      "def_en": "a difference in health outcomes between social groups",
+      "def_vi": "chênh lệch sức khỏe giữa các nhóm",
+      "example": "Income inequality often leads to serious health disparities.",
+      "synonyms": ["health inequality", "medical gap"],
+      "band": 8.0
+    },
+    {
+      "word": "health-conscious",
+      "type": "adj",
+      "ipa": "/ˈhelθ ˌkɒnʃəs/",
+      "def_en": "concerned about maintaining good health",
+      "def_vi": "có ý thức về sức khỏe",
+      "example": "Health-conscious consumers are buying more organic food.",
+      "synonyms": ["wellness-oriented", "health-aware"],
+      "band": 7.0
+    },
+    {
+      "word": "immunization",
+      "type": "noun",
+      "ipa": "/ˌɪmjunaɪˈzeɪʃn/",
+      "def_en": "the process of protecting people from disease through vaccination",
+      "def_vi": "sự tiêm chủng tạo miễn dịch",
+      "example": "Childhood immunization programs have saved millions of lives.",
+      "synonyms": ["vaccination", "inoculation"],
+      "band": 7.5
+    },
+    {
+      "word": "life expectancy",
+      "type": "noun",
+      "ipa": "/ˈlaɪf ɪkˌspektənsi/",
+      "def_en": "the average number of years a person is expected to live",
+      "def_vi": "tuổi thọ trung bình",
+      "example": "Life expectancy has increased due to better sanitation and medicine.",
+      "synonyms": ["expected lifespan"],
+      "band": 7.0
+    },
+    {
+      "word": "malnutrition",
+      "type": "noun",
+      "ipa": "/ˌmælnjuːˈtrɪʃn/",
+      "def_en": "poor health caused by not getting enough or the right nutrients",
+      "def_vi": "suy dinh dưỡng",
+      "example": "Malnutrition can affect children's physical and cognitive development.",
+      "synonyms": ["undernutrition", "poor nutrition"],
+      "band": 7.5
+    },
+    {
+      "word": "mental wellbeing",
+      "type": "noun",
+      "ipa": "/ˈmentl ˌwelˈbiːɪŋ/",
+      "def_en": "a positive state of emotional and psychological health",
+      "def_vi": "sức khỏe tinh thần",
+      "example": "Schools should pay more attention to students' mental wellbeing.",
+      "synonyms": ["psychological health", "emotional wellness"],
+      "band": 7.0
+    },
+    {
+      "word": "obesity",
+      "type": "noun",
+      "ipa": "/əʊˈbiːsəti/",
+      "def_en": "a condition involving excessive body fat that may harm health",
+      "def_vi": "béo phì",
+      "example": "Sedentary lifestyles are linked to rising rates of obesity.",
+      "synonyms": ["excessive weight", "overweight condition"],
+      "band": 7.0
+    },
+    {
+      "word": "pandemic preparedness",
+      "type": "noun",
+      "ipa": "/pænˈdemɪk prɪˈpeədnəs/",
+      "def_en": "readiness to respond effectively to a global disease outbreak",
+      "def_vi": "sự chuẩn bị ứng phó đại dịch",
+      "example": "Pandemic preparedness requires investment in hospitals and laboratories.",
+      "synonyms": ["outbreak readiness", "public health preparedness"],
+      "band": 8.0
+    },
+    {
+      "word": "preventive medicine",
+      "type": "noun",
+      "ipa": "/prɪˈventɪv ˈmedsn/",
+      "def_en": "medical practice focused on preventing illness",
+      "def_vi": "y học dự phòng",
+      "example": "Preventive medicine can reduce long-term healthcare costs.",
+      "synonyms": ["preventive healthcare", "prophylactic medicine"],
+      "band": 8.0
+    },
+    {
+      "word": "public health campaign",
+      "type": "noun",
+      "ipa": "/ˌpʌblɪk ˈhelθ kæmˌpeɪn/",
+      "def_en": "an organized effort to improve community health",
+      "def_vi": "chiến dịch y tế công cộng",
+      "example": "A public health campaign can encourage people to quit smoking.",
+      "synonyms": ["health awareness campaign"],
+      "band": 7.5
+    },
+    {
+      "word": "sedentary lifestyle",
+      "type": "noun",
+      "ipa": "/ˈsedntri ˈlaɪfstaɪl/",
+      "def_en": "a way of living with little physical activity",
+      "def_vi": "lối sống ít vận động",
+      "example": "A sedentary lifestyle increases the risk of cardiovascular disease.",
+      "synonyms": ["inactive lifestyle", "physically inactive routine"],
+      "band": 7.0
+    },
+    {
+      "word": "side effects",
+      "type": "noun",
+      "ipa": "/ˈsaɪd ɪˌfekts/",
+      "def_en": "unwanted effects of a medicine or treatment",
+      "def_vi": "tác dụng phụ",
+      "example": "Patients should be informed about possible side effects.",
+      "synonyms": ["adverse effects", "unwanted reactions"],
+      "band": 7.0
+    },
+    {
+      "word": "specialist care",
+      "type": "noun",
+      "ipa": "/ˈspeʃəlɪst keə/",
+      "def_en": "medical treatment provided by doctors with advanced expertise",
+      "def_vi": "chăm sóc chuyên khoa",
+      "example": "Rural patients often have limited access to specialist care.",
+      "synonyms": ["expert medical care", "specialized treatment"],
+      "band": 7.5
+    },
+    {
+      "word": "strain on hospitals",
+      "type": "collocation",
+      "ipa": "/streɪn ɒn ˈhɒspɪtlz/",
+      "def_en": "pressure on hospitals caused by high demand or limited resources",
+      "def_vi": "áp lực lên bệnh viện",
+      "example": "An ageing population can put severe strain on hospitals.",
+      "synonyms": ["pressure on healthcare facilities"],
+      "band": 7.5
+    },
+    {
+      "word": "substance abuse",
+      "type": "noun",
+      "ipa": "/ˈsʌbstəns əˌbjuːs/",
+      "def_en": "the harmful use of drugs, alcohol, or other substances",
+      "def_vi": "lạm dụng chất gây nghiện",
+      "example": "Substance abuse is often linked to mental health problems.",
+      "synonyms": ["drug abuse", "addiction-related misuse"],
+      "band": 7.5
+    },
+    {
+      "word": "universal healthcare",
+      "type": "noun",
+      "ipa": "/ˌjuːnɪˈvɜːsl ˈhelθkeə/",
+      "def_en": "a system where all citizens can receive medical services",
+      "def_vi": "y tế toàn dân",
+      "example": "Universal healthcare can prevent poor families from avoiding treatment.",
+      "synonyms": ["public healthcare coverage"],
+      "band": 7.5
+    },
+    {
+      "word": "vaccination uptake",
+      "type": "noun",
+      "ipa": "/ˌvæksɪˈneɪʃn ˈʌpteɪk/",
+      "def_en": "the proportion of people who receive a vaccine",
+      "def_vi": "tỷ lệ tiêm chủng",
+      "example": "Low vaccination uptake can increase the risk of outbreaks.",
+      "synonyms": ["vaccine acceptance", "immunization rate"],
+      "band": 8.0
+    },
+    {
+      "word": "vulnerable groups",
+      "type": "noun",
+      "ipa": "/ˈvʌlnərəbl ɡruːps/",
+      "def_en": "people who are at greater risk of harm or disadvantage",
+      "def_vi": "nhóm dễ bị tổn thương",
+      "example": "Healthcare policy should prioritize vulnerable groups.",
+      "synonyms": ["at-risk groups", "disadvantaged groups"],
+      "band": 7.0
+    },
+    {
+      "word": "well-balanced diet",
+      "type": "noun",
+      "ipa": "/ˌwel ˈbælənst ˈdaɪət/",
+      "def_en": "a diet containing the right amounts of nutrients",
+      "def_vi": "chế độ ăn cân bằng",
+      "example": "A well-balanced diet is crucial for children's development.",
+      "synonyms": ["nutritious diet", "balanced nutrition"],
+      "band": 7.0
+    }
+  ]
+}
