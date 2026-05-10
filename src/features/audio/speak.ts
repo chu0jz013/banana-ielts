@@ -15,7 +15,22 @@ export const speak = (text: string, voiceId: GoogleVoiceId): boolean => {
   if (typeof window === 'undefined' || !('speechSynthesis' in window)) return false;
   if (!text) return false;
 
-  window.speechSynthesis.cancel();
+  const synth = window.speechSynthesis;
+
+  // Refresh voices in case they finished loading after first cache.
+  const fresh = synth.getVoices();
+  if (fresh.length > 0) cachedVoices = fresh;
+
+  // Safari iOS bug: calling cancel() then speak() in the same tick can
+  // silence the new utterance. Only cancel when something is actually
+  // speaking so cancel() can synchronously clear the queue.
+  if (synth.speaking || synth.pending) {
+    synth.cancel();
+  }
+
+  // Chrome desktop sometimes leaves the synth in a paused state after
+  // long idle — speak() then becomes a no-op until resume().
+  if (synth.paused) synth.resume();
 
   const utterance = new SpeechSynthesisUtterance(text);
   const voice = findGoogleVoice(cachedVoices, voiceId);
@@ -27,7 +42,8 @@ export const speak = (text: string, voiceId: GoogleVoiceId): boolean => {
   }
   utterance.rate = 0.86;
   utterance.pitch = 1;
-  window.speechSynthesis.speak(utterance);
+
+  synth.speak(utterance);
   return true;
 };
 

@@ -10,12 +10,12 @@ import { useFeedScheduler } from "./useFeedScheduler";
 import { Card } from "./Card";
 import { ActionRail } from "./ActionRail";
 import { useKeyboardNav } from "./useKeyboardNav";
-
-const HelpOverlay = lazy(() => import("./HelpOverlay"));
 import { speak, speechSupported, stopSpeaking } from "../audio/speak";
 import { gradeCard, Rating } from "../srs/scheduler";
 import { db } from "../../data/db";
 import { useAppStore } from "../../store/useAppStore";
+
+const HelpOverlay = lazy(() => import("./HelpOverlay"));
 
 const SWIPE_THRESHOLD = 90;
 const VELOCITY_THRESHOLD = 600;
@@ -33,7 +33,8 @@ export const Feed = ({ onOpenSettings }: Props) => {
   const audioUnlocked = useAppStore((s) => s.audioUnlocked);
   const markAudioUnlocked = useAppStore((s) => s.markAudioUnlocked);
 
-  const { current, advance, goBack, loading, queueSize } = useFeedScheduler();
+  const { current, upcoming, previous, advance, goBack, loading, queueSize } =
+    useFeedScheduler();
 
   const [revealed, setRevealed] = useState(false);
   const [bookmarked, setBookmarked] = useState(false);
@@ -47,11 +48,11 @@ export const Feed = ({ onOpenSettings }: Props) => {
     setBookmarked(false);
   }
 
-  const x = useMotionValue(0);
-  const y = useMotionValue(0);
-  const cardOpacity = useTransform(x, [-300, 0, 300], [0.5, 1, 0.5]);
+  const dragX = useMotionValue(0);
+  const dragY = useMotionValue(0);
+  const cardOpacity = useTransform(dragX, [-300, 0, 300], [0.5, 1, 0.5]);
   const swipeHintBg = useTransform(
-    x,
+    dragX,
     [-200, -50, 0, 50, 200],
     [
       "rgba(244,63,94,0.35)",
@@ -64,37 +65,38 @@ export const Feed = ({ onOpenSettings }: Props) => {
   const lastTapRef = useRef<{ ts: number; x: number; y: number } | null>(null);
   const lastWheelTsRef = useRef(0);
 
-  const playCurrent = (text?: string) => {
+  // playWord: synchronous in user-gesture handler. Auto-unlocks audio so
+  // even keyboard-only users get sound on first key.
+  const playWord = (text?: string) => {
+    if (!text) return;
     if (!speechSupported()) return;
-    if (!current && !text) return;
-    speak(text ?? current!.word, voicePreference);
+    if (!audioUnlocked) markAudioUnlocked();
+    speak(text, voicePreference);
   };
 
+  // Reset bookmark state when card changes (async lookup)
   useEffect(() => {
     if (!current) return;
     let cancelled = false;
     db.bookmarks.get(current.id).then((b) => {
       if (!cancelled) setBookmarked(!!b);
     });
-
-    let timeoutId: number | undefined;
-    if (audioUnlocked) {
-      timeoutId = window.setTimeout(() => playCurrent(current.word), 250);
-    }
     return () => {
       cancelled = true;
-      if (timeoutId !== undefined) window.clearTimeout(timeoutId);
     };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [current?.id, audioUnlocked]);
+  }, [current?.id]);
 
   useEffect(() => {
     return () => stopSpeaking();
   }, []);
 
+  const nextWord = upcoming[0]?.word;
+  const prevWord = previous?.word;
+
   const handleEasy = async () => {
     if (!current || grading) return;
     setGrading(true);
+    playWord(nextWord);
     await gradeCard(current.id, Rating.Easy);
     advance();
     setGrading(false);
@@ -103,28 +105,31 @@ export const Feed = ({ onOpenSettings }: Props) => {
   const handleAgain = async () => {
     if (!current || grading) return;
     setGrading(true);
+    playWord(nextWord);
     await gradeCard(current.id, Rating.Again);
     advance();
     setGrading(false);
   };
 
   const handleNeutralNext = () => {
+    playWord(nextWord);
     advance();
+  };
+
+  const handleGoBack = () => {
+    playWord(prevWord);
+    goBack();
   };
 
   const handleReveal = () => {
     if (!current) return;
-    if (!audioUnlocked) {
-      markAudioUnlocked();
-      playCurrent(current.word);
-    }
+    playWord(current.word);
     setRevealed((r) => !r);
   };
 
   const handleReplay = () => {
     if (!current) return;
-    if (!audioUnlocked) markAudioUnlocked();
-    playCurrent(current.word);
+    playWord(current.word);
   };
 
   const handleBookmark = async () => {
@@ -151,7 +156,7 @@ export const Feed = ({ onOpenSettings }: Props) => {
   useKeyboardNav(
     {
       onNext: handleNeutralNext,
-      onPrev: goBack,
+      onPrev: handleGoBack,
       onEasy: () => void handleEasy(),
       onAgain: () => void handleAgain(),
       onReveal: handleReveal,
@@ -184,19 +189,19 @@ export const Feed = ({ onOpenSettings }: Props) => {
         return;
       }
       if (offset.y > SWIPE_THRESHOLD || velocity.y > VELOCITY_THRESHOLD) {
-        goBack();
+        handleGoBack();
         return;
       }
     }
-    x.set(0);
-    y.set(0);
+    dragX.set(0);
+    dragY.set(0);
   };
 
   const handleTap = (e: React.MouseEvent) => {
     if (!current) return;
     if (!audioUnlocked) {
       markAudioUnlocked();
-      playCurrent(current.word);
+      playWord(current.word);
     }
     if (!hasSeenSwipeHint) markSwipeHintSeen();
 
@@ -234,7 +239,7 @@ export const Feed = ({ onOpenSettings }: Props) => {
 
     if (!audioUnlocked) markAudioUnlocked();
     if (e.deltaY > 0) handleNeutralNext();
-    else goBack();
+    else handleGoBack();
   };
 
   if (loading) {
@@ -269,47 +274,54 @@ export const Feed = ({ onOpenSettings }: Props) => {
       className="absolute inset-0 overflow-hidden bg-bg text-zinc-100 touch-none select-none"
       onWheel={handleWheel}
     >
-      {/* Top settings button */}
-      <button
-        onClick={onOpenSettings}
-        aria-label="Cài đặt"
-        title="Cài đặt (E)"
-        className="absolute top-[calc(env(safe-area-inset-top)+0.5rem)] right-3 z-30 w-9 h-9 rounded-full bg-black/40 backdrop-blur-sm border border-white/10 flex items-center justify-center text-zinc-300 hover:bg-black/60 hover:text-zinc-100 transition-colors"
-      >
-        ⚙
-      </button>
+      {/* Top action buttons */}
+      <div className="absolute top-[calc(env(safe-area-inset-top)+0.5rem)] right-3 z-30 flex gap-2">
+        <button
+          onClick={() => setHelpOpen(true)}
+          aria-label="Phím tắt"
+          title="Phím tắt (?)"
+          className="hidden md:flex w-10 h-10 rounded-full bg-zinc-800 border border-zinc-600 items-center justify-center text-zinc-100 hover:bg-zinc-700 transition-colors shadow-lg"
+        >
+          ?
+        </button>
+        <button
+          onClick={onOpenSettings}
+          aria-label="Cài đặt"
+          title="Cài đặt (E)"
+          className="w-10 h-10 rounded-full bg-zinc-800 border border-zinc-600 flex items-center justify-center text-zinc-100 hover:bg-zinc-700 transition-colors shadow-lg"
+        >
+          ⚙
+        </button>
+      </div>
 
-      {/* Help button */}
-      <button
-        onClick={() => setHelpOpen(true)}
-        aria-label="Phím tắt"
-        title="Phím tắt (?)"
-        className="absolute top-[calc(env(safe-area-inset-top)+0.5rem)] right-14 z-30 w-9 h-9 rounded-full bg-black/40 backdrop-blur-sm border border-white/10 hidden md:flex items-center justify-center text-zinc-300 hover:bg-black/60 hover:text-zinc-100 transition-colors"
-      >
-        ?
-      </button>
-
-      {/* Active card with drag */}
-      <motion.div
-        key={current.id}
-        className="absolute inset-0 touch-none cursor-grab active:cursor-grabbing"
-        style={{ x, y, opacity: cardOpacity }}
-        drag
-        dragElastic={0.18}
-        dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
-        onDragEnd={handleDragEnd}
-        initial={{ opacity: 0, y: 30 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ type: "spring", damping: 24, stiffness: 280 }}
-        onClick={handleTap}
-      >
-        <Card word={current} revealed={revealed} onReveal={handleReveal} />
+      {/* Active card with TikTok-style slide transition */}
+      <AnimatePresence initial={false} mode="popLayout">
         <motion.div
-          aria-hidden
-          className="absolute inset-0 pointer-events-none z-[5]"
-          style={{ backgroundColor: swipeHintBg }}
-        />
-      </motion.div>
+          key={current.id}
+          className="absolute inset-0"
+          initial={{ y: "100%" }}
+          animate={{ y: 0 }}
+          exit={{ y: "-100%" }}
+          transition={{ type: "spring", damping: 30, stiffness: 320 }}
+        >
+          <motion.div
+            className="absolute inset-0 touch-none cursor-grab active:cursor-grabbing"
+            style={{ x: dragX, y: dragY, opacity: cardOpacity }}
+            drag
+            dragElastic={0.15}
+            dragConstraints={{ left: 0, right: 0, top: 0, bottom: 0 }}
+            onDragEnd={handleDragEnd}
+            onClick={handleTap}
+          >
+            <Card word={current} revealed={revealed} onReveal={handleReveal} />
+            <motion.div
+              aria-hidden
+              className="absolute inset-0 pointer-events-none z-[5]"
+              style={{ backgroundColor: swipeHintBg }}
+            />
+          </motion.div>
+        </motion.div>
+      </AnimatePresence>
 
       <ActionRail
         onReveal={handleReveal}
@@ -324,7 +336,7 @@ export const Feed = ({ onOpenSettings }: Props) => {
       {/* First-run hint */}
       {!hasSeenSwipeHint && (
         <div className="absolute left-0 right-0 bottom-[calc(env(safe-area-inset-bottom)+1rem)] z-10 flex justify-center pointer-events-none px-3">
-          <div className="bg-black/60 backdrop-blur-sm rounded-full px-4 py-2 text-[11px] text-zinc-200 border border-white/10 text-center">
+          <div className="bg-zinc-900/90 rounded-full px-4 py-2 text-[11px] text-zinc-200 border border-zinc-700 text-center shadow-lg">
             <span className="md:hidden">
               Tap → xem nghĩa · Vuốt ↑ qua từ · ← chưa biết · → đã biết
             </span>
